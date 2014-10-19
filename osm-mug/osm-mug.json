@@ -1,6 +1,6 @@
 {
     "data_format": 1,
-    "data_url": "https://raw.githubusercontent.com/joto/taginfo/master/projects/osm-mug.json",
+    "data_url": "https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/osm-mug.json",
     "project": {
         "name": "OpenStreetMap Mug",
         "description": "The OSM Cheat Mug contains many of the most important OSM tags.",
