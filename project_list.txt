@@ -17,3 +17,4 @@ vespucci https://osmeditor4android.googlecode.com/svn/trunk/taginfo.json
 waymarkedtrails http://mapstatic.waymarkedtrails.org/taginfo.json
 wikidata_org http://tools.wmflabs.org/wp-world/wikidata/tags.php
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
+scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
