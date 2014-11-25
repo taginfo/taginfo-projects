@@ -6,7 +6,7 @@
         "description": "The OSM Cheat Mug contains many of the most important OSM tags.",
         "project_url": "http://shop.kernelconcepts.de/product_info.php?products_id=112",
         "doc_url": "http://shop.kernelconcepts.de/images/osm-mug-preview.png",
-        "icon_url": "https://raw.githubusercontent.com/joto/taginfo/master/projects/osm-mug.png",
+        "icon_url": "https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/osm-mug.png",
         "contact_name": "Jochen Topf",
         "contact_email": "jochen@remote.org"
     },
