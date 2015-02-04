@@ -1,4 +1,5 @@
 bano http://bano.openstreetmap.fr/bano_taginfo.json
+historic.place http://www.historic.place/wwwroot/taginfo/historic.place.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
 josm_main_mappaint_style http://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
