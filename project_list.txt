@@ -1,4 +1,6 @@
 bano http://bano.openstreetmap.fr/bano_taginfo.json
+hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
+historic_place http://gk.historic.place/taginfo/historic.place.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
 josm_main_mappaint_style http://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
@@ -19,4 +21,3 @@ unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 vespucci https://osmeditor4android.googlecode.com/svn/trunk/taginfo.json
 waymarkedtrails http://mapstatic.waymarkedtrails.org/taginfo.json
 wikidata_org http://tools.wmflabs.org/wp-world/wikidata/tags.php
-hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
