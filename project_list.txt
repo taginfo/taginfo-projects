@@ -16,6 +16,7 @@ osm_mug https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/o
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant http://www.osmhydrant.org/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/develop/taginfo.json
+raba_kgz_import http://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 townlands_ie http://www.townlands.ie/taginfo.json
