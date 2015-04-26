@@ -15,6 +15,7 @@ osm_inspector_public_transport_stops http://tools.geofabrik.de/osmi/osmi_pubtran
 osm_mug https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/osm-mug.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant http://www.osmhydrant.org/taginfo.json
+osmlanevisualizer http://osm.mueschelsoft.de/lanes/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/develop/taginfo.json
 raba_kgz_import http://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
