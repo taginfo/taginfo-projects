@@ -15,3 +15,18 @@ the type of map. Look at the other IDs for some ideas.
 Please add your line at the correct place so the file keeps its alphabetical
 ordering. This makes it easier for others to create unique IDs.
 
+## Testing
+
+Your pull request will be testing with Travis CI.
+
+List of things which are tested:
+
+* Is the project_list.txt sorted
+* Is the ID valid
+* Does the URL refer to a valid JSON file
+
+You can run this test before submitting the pull request with
+
+```Shell
+./test_changes
+```
