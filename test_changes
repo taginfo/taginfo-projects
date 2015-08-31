@@ -1,0 +1,83 @@
+#!/bin/bash
+## @license GPLv3 <https://www.gnu.org/licenses/gpl-3.0.html>
+## @author Copyright (C) 2015 Robin Schneider <ypid@riseup.net>
+##
+## This program is free software: you can redistribute it and/or modify
+## it under the terms of the GNU General Public License as published by
+## the Free Software Foundation, either version 3 of the License, or
+## (at your option) any later version.
+##
+## This program is distributed in the hope that it will be useful,
+## but WITHOUT ANY WARRANTY; without even the implied warranty of
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+## GNU General Public License for more details.
+##
+## You should have received a copy of the GNU General Public License
+## along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+latest_upstream_master_commit_hash="$(curl https://api.github.com/repos/joto/taginfo-projects/git/refs/heads/master | jq --raw-output '.object.sha')"
+
+## For testing.
+# latest_upstream_master_commit_hash="9dadc7f1a98e30ae0d4d2a18e37c4452d55fb792"
+
+exit_code=0
+ansi_color_red='\033[1;31m'
+ansi_color_green='\033[1;32m'
+ansi_color_reset='\033[0m'
+
+## Check if sorted {{{
+sort --unique project_list.txt > project_list_sorted.txt
+git --no-pager diff --color-words --no-index project_list.txt project_list_sorted.txt
+if [ $? == 0 ]
+then
+    echo -e "${ansi_color_green}- project_list.txt is sorted${ansi_color_reset}"
+else
+    echo -e "${ansi_color_red}- project_list.txt not is sorted${ansi_color_reset}" 1>&2
+    echo "You might want to run:" 1>&2
+    echo "    cp project_list_sorted.txt project_list.txt" 1>&2
+    exit_code=$((exit_code+1))
+fi
+## }}}
+
+git diff "${latest_upstream_master_commit_hash}..HEAD" --color=always -- project_list.txt \
+    | perl -wlne 'print $1 if /^\e\[32m\+\e\[m\e\[32m(.*)\e\[m$/' > project_list_diff.txt
+
+while read id url
+do
+    echo "- Testing $id: $url"
+    if [[ $id =~ ^[a-z_]+$ ]]
+    then
+        echo -e "${ansi_color_green}-- ID is valid${ansi_color_reset}"
+    else
+        echo -e "${ansi_color_red}-- ID is not valid${ansi_color_reset}" 1>&2
+        exit_code=$((exit_code+1))
+    fi
+    ## Ensure that the output files does not yet exist.
+    tempdir="$(mktemp --directory)"
+    curl "$url" --output "$tempdir/taginfo.json"
+    if [ $? == 0 ]
+    then
+        echo -e "${ansi_color_green}-- taginfo.json can be retrieved${ansi_color_reset}"
+        jq '.' "$tempdir/taginfo.json" > /dev/null
+        if [ $? == 0 ]
+        then
+            echo -e "${ansi_color_green}-- taginfo.json is valid JSON${ansi_color_reset}"
+        else
+            echo "" 1>&2
+            echo -e "${ansi_color_red}-- taginfo.json is not valid JSON${ansi_color_reset}" 1>&2
+            exit_code=$((exit_code+1))
+        fi
+    else
+        echo -e "${ansi_color_red}-- taginfo.json file can not be retrieved.${ansi_color_reset}" 1>&2
+        exit_code=$((exit_code+1))
+    fi
+done < project_list_diff.txt
+
+if [ $exit_code == 0 ]
+then
+    echo -e "\n${ansi_color_green}Problem count: $exit_code${ansi_color_reset}"
+else
+    echo -e "\n${ansi_color_red}Problem count: $exit_code${ansi_color_reset}" 1>&2
+fi
+
+exit "$exit_code"

@@ -1,0 +1,7 @@
+---
+
+sudo: false
+
+script:
+
+  - './test_changes'
