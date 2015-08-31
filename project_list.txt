@@ -9,6 +9,8 @@ josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_ext
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
+opening_hours_evaluation_tool https://raw.githubusercontent.com/ypid/opening_hours.js/master/taginfo.json
+opening_hours_map https://raw.githubusercontent.com/ypid/opening_hours_map/master/taginfo.json
 openlevelup http://github.pavie.info/openlevelup/taginfo.json
 openlovemap http://openlovemap.de/static/js/openlovemap_taginfo.json
 opensnowmap_org http://www.opensnowmap.org/opensnowmap_taginfo.json
