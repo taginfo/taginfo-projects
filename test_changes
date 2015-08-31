@@ -15,7 +15,7 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-latest_upstream_master_commit_hash="$(curl https://api.github.com/repos/joto/taginfo-projects/git/refs/heads/master | jq --raw-output '.object.sha')"
+latest_upstream_master_commit_hash="$(curl https://api.github.com/repos/taginfo/taginfo-projects/git/refs/heads/master | jq --raw-output '.object.sha')"
 
 ## For testing.
 # latest_upstream_master_commit_hash="9dadc7f1a98e30ae0d4d2a18e37c4452d55fb792"
