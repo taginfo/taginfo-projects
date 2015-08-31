@@ -3,9 +3,9 @@ boxlocator https://boxlocator.eu/boxlocator_taginfo.json
 hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
+josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
-josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
@@ -15,13 +15,13 @@ openlevelup http://github.pavie.info/openlevelup/taginfo.json
 openlovemap http://openlovemap.de/static/js/openlovemap_taginfo.json
 opensnowmap_org http://www.opensnowmap.org/opensnowmap_taginfo.json
 osm24eu http://osm24.eu/taginfo.json
-osm_inspector_public_transport_railways http://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
-osm_inspector_public_transport_stops http://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
-osm_mug https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/osm-mug.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx-docs/master/osmaxx.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant http://www.osmhydrant.org/taginfo.json
+osm_inspector_public_transport_railways http://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
+osm_inspector_public_transport_stops http://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
 osmlanevisualizer http://osm.mueschelsoft.de/lanes/taginfo.json
+osm_mug https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/osm-mug.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/develop/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 raba_kgz_import http://raba.openstreetmap.si/taginfo.json
