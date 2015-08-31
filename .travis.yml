@@ -1,7 +1,12 @@
----
 
 sudo: false
 
-script:
+addons:
+    apt:
+        packages:
+            - curl
+            - jq
 
-  - './test_changes'
+script:
+    - ./test_changes
+
