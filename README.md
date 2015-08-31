@@ -5,6 +5,9 @@ This repository contains the list of projects for taginfo. See
 
 https://wiki.openstreetmap.org/wiki/Taginfo/Projects
 
+[![Build Status](https://secure.travis-ci.org/taginfo/taginfo-projects.png)](https://travis-ci.org/taginfo/taginfo-projects)
+
+
 ## Notes for contributors
 
 To add you project add a line to `project_list.txt` with a unique ID and the
@@ -13,7 +16,7 @@ link to your JSON project file.
 ### Choosing a unique ID
 
 The unique ID MUST NOT contain any characters except lower case latin letters
-(a-z) and the underscore (_). Usually it will reflect your domain name or the
+(a-z) and the underscore (`_`). Usually it will reflect your domain name or the
 type of map. Look at the other IDs for some ideas.
 
 ### Adding to the project list file
@@ -27,12 +30,11 @@ Your pull request will be testing with Travis CI.
 
 List of things which are tested:
 
-* Is the project_list.txt sorted
+* Is the `project_list.txt` sorted
 * Is the ID valid
 * Does the URL refer to a valid JSON file
 
 You can run this test before submitting the pull request with
 
-```Shell
-./test_changes
-```
+    ./test_changes
+
