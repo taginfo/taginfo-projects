@@ -26,7 +26,7 @@ ansi_color_green='\033[1;32m'
 ansi_color_reset='\033[0m'
 
 ## Check if sorted {{{
-sort --unique project_list.txt > project_list_sorted.txt
+LC_ALL=C sort --unique project_list.txt > project_list_sorted.txt
 git --no-pager diff --color-words --no-index project_list.txt project_list_sorted.txt
 if [ $? == 0 ]
 then
