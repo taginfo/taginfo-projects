@@ -14,6 +14,7 @@ opening_hours_evaluation_tool https://raw.githubusercontent.com/ypid/opening_hou
 opening_hours_map https://raw.githubusercontent.com/ypid/opening_hours_map/master/taginfo.json
 openlevelup http://github.pavie.info/openlevelup/taginfo.json
 openlovemap http://openlovemap.de/static/js/openlovemap_taginfo.json
+openrailwaymap http://www.openrailwaymap.org/taginfo/taginfo.json
 opensnowmap_org http://www.opensnowmap.org/opensnowmap_taginfo.json
 osm24eu http://osm24.eu/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
