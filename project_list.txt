@@ -7,6 +7,7 @@ id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
+map_features http://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
