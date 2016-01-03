@@ -17,7 +17,7 @@ openlevelup http://github.pavie.info/openlevelup/taginfo.json
 openlovemap http://openlovemap.de/static/js/openlovemap_taginfo.json
 openrailwaymap http://www.openrailwaymap.org/taginfo/taginfo.json
 opensnowmap_org http://www.opensnowmap.org/opensnowmap_taginfo.json
-osm24eu http://osm24.eu/taginfo.json
+osm24eu http://osmapa.pl/osm24/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways http://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
 osm_inspector_public_transport_stops http://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
