@@ -1,6 +1,7 @@
 bano http://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
+checkautopista2 http://k1wiosm.github.io/checkautopista2/taginfo.json
 hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
