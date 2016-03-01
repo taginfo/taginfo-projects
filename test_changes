@@ -45,7 +45,7 @@ git diff "${latest_upstream_master_commit_hash}..HEAD" --color=always -- project
 while read id url
 do
     echo "- Testing $id: $url"
-    if [[ $id =~ ^[a-z_]+$ ]]
+    if [[ $id =~ ^[a-z][a-z0-9_]+$ ]]
     then
         echo -e "${ansi_color_green}-- ID is valid${ansi_color_reset}"
     else
