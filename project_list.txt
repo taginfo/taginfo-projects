@@ -1,3 +1,4 @@
+architects_in_osm http://osm.ascolteo.fr/taginfo.json
 bano http://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
