@@ -16,7 +16,7 @@ link to your JSON project file.
 ### Choosing a unique ID
 
 The unique ID MUST NOT contain any characters except lower case latin letters
-(a-z), the numbers (0-9) and the underscore (`_`). The first character mist be
+(a-z), the numbers (0-9) and the underscore (`_`). The first character must be
 a letter. Usually it will reflect your domain name or the type of map. Look at
 the other IDs for some ideas.
 
