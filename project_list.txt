@@ -46,3 +46,4 @@ waymarkedtrails http://mapstatic.waymarkedtrails.org/taginfo.json
 wikidata_org http://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap http://wuzzelmap.ck.si/taginfo.json
 yohours http://github.pavie.info/yohours/taginfo.json
+osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
