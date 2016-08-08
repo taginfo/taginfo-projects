@@ -30,7 +30,7 @@ osm_mug https://raw.githubusercontent.com/joto/taginfo-projects/master/osm-mug/o
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx-docs/master/osmaxx.json
 osmbuildings http://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
-osmhydrant http://www.osmhydrant.org/taginfo.json
+osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer http://osm.mueschelsoft.de/lanes/taginfo.json
 osmmosques https://www.osmmosques.org/taginfo.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
@@ -39,7 +39,7 @@ polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/p
 raba_kgz_import http://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
-townlands_ie http://www.townlands.ie/taginfo.json
+townlands_ie https://www.townlands.ie/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 valhalla https://raw.githubusercontent.com/valhalla/mjolnir/master/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
