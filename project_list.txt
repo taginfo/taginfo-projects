@@ -39,6 +39,7 @@ osmmosques https://www.osmmosques.org/taginfo.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
 pcboundaries https://osm.wno-edv-service.de/pcboundaries/taginfo.json
+plzmap https://osm.wno-edv-service.de/plz/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 raba_kgz_import http://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
