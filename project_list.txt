@@ -6,12 +6,14 @@ checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
 geofabrik_free_shapes http://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
+hundekottuetenspender https://osm.wno-edv-service.de/hkts/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
 map_features http://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
+missing_boundaries https://osm.wno-edv-service.de/index.php/projekte/internationale-administrative-grenzen/missing-boundaries/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/ypid/opening_hours.js/master/taginfo.json
@@ -25,6 +27,7 @@ osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.jso
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
 osm_boundaries_map https://osm.wno-edv-service.de/boundaries/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
+osm_emergency_map https://osm.wno-edv-service.de/emergency/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways http://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
 osm_inspector_public_transport_stops http://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
@@ -42,6 +45,7 @@ pcboundaries https://osm.wno-edv-service.de/pcboundaries/taginfo.json
 plzmap https://osm.wno-edv-service.de/plz/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 raba_kgz_import http://raba.openstreetmap.si/taginfo.json
+residentials https://osm.wno-edv-service.de/residentials/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 townlands_ie https://www.townlands.ie/taginfo.json
