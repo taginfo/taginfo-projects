@@ -15,6 +15,7 @@ map_features http://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 missing_boundaries https://osm.wno-edv-service.de/index.php/projekte/internationale-administrative-grenzen/missing-boundaries/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
+openadvertmap http://projets.pavie.info/openadvertmap/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/ypid/opening_hours.js/master/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/ypid/opening_hours_map/master/taginfo.json
