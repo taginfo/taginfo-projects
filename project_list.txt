@@ -26,6 +26,7 @@ opensnowmap_org http://www.opensnowmap.org/opensnowmap_taginfo.json
 osm24eu http://osmapa.pl/osm24/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
+osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_boundaries_map https://osm.wno-edv-service.de/boundaries/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
 osm_emergency_map https://osm.wno-edv-service.de/emergency/taginfo.json
