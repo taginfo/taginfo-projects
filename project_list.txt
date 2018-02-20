@@ -6,6 +6,7 @@ checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
 geofabrik_free_shapes http://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
+histosm http://histosm.org/taginfo.json
 hundekottuetenspender https://osm.wno-edv-service.de/hkts/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/iD/master/data/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
