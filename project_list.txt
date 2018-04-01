@@ -14,6 +14,7 @@ josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_ext
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
 map_features http://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
+mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 missing_boundaries https://wambachers-osm.website/index.php/projekte/internationale-administrative-grenzen/missing-boundaries/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
