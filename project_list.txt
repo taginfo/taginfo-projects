@@ -60,7 +60,7 @@ traffic_signs_ame https://raw.githubusercontent.com/yopaseopor/beta_style_josm/m
 traffic_signs_eur https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_eur.json
 traffic_signs_pac https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
-valhalla https://raw.githubusercontent.com/valhalla/mjolnir/master/taginfo.json
+valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 wanderreitkarte http://www.wanderreitkarte.de/download/taginfo.json
 waymarkedtrails http://static.waymarkedtrails.org/taginfo.json
