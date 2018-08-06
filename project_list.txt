@@ -66,4 +66,5 @@ wanderreitkarte http://www.wanderreitkarte.de/download/taginfo.json
 waymarkedtrails http://static.waymarkedtrails.org/taginfo.json
 wikidata_org http://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap http://wuzzelmap.ck.si/taginfo.json
+xctrails https://www.xctrails.org/taginfo.json
 yohours http://projets.pavie.info/yohours/taginfo.json
