@@ -50,6 +50,7 @@ osmlanevisualizer http://osm.mueschelsoft.de/lanes/taginfo.json
 osmmosques https://www.osmmosques.org/taginfo.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
+parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 pcboundaries https://wambachers-osm.website/pcboundaries/taginfo.json
 plzmap https://wambachers-osm.website/plz/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
