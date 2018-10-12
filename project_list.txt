@@ -2,6 +2,7 @@ architects_in_osm http://osm.ascolteo.fr/taginfo.json
 bano http://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
+bus_lanes https://raw.githubusercontent.com/zlant/bus-lanes/master/taginfo.json
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
 closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
