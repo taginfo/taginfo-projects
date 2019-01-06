@@ -25,6 +25,7 @@ name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-i
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
+openinframap https://openinframap.org/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/ypid/opening_hours.js/master/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/ypid/opening_hours_map/master/taginfo.json
 openlevelup http://openlevelup.net/taginfo.json
