@@ -54,7 +54,7 @@ do
     fi
     ## Ensure that the output files does not yet exist.
     tempdir="$(mktemp --directory)"
-    curl --silent "$url" --output "$tempdir/taginfo.json"
+    curl --location --silent "$url" --output "$tempdir/taginfo.json"
     if [ $? == 0 ]
     then
         echo -e "${ansi_color_green}-- taginfo.json can be retrieved${ansi_color_reset}"
