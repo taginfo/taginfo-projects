@@ -22,6 +22,7 @@ mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overl
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 missing_boundaries https://wambachers-osm.website/index.php/projekte/internationale-administrative-grenzen/missing-boundaries/taginfo.json
 name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/master/dist/taginfo.json
+nofarm https://wambachers-osm.website/nofarm/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openbeermap http://openbeermap.github.io/taginfo.json
