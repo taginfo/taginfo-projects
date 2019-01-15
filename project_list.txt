@@ -7,6 +7,7 @@ cartovrac https://raw.githubusercontent.com/vivreanantes/cartovrac/master/taginf
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
 closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
+dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
