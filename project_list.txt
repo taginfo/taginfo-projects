@@ -11,6 +11,7 @@ cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
+fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
