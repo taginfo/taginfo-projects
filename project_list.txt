@@ -39,6 +39,7 @@ openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
+openvegemap https://raw.githubusercontent.com/Rudloff/openvegemap/master/taginfo.json
 osm24eu http://osmapa.pl/osm24/taginfo.json
 osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
