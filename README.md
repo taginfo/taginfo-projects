@@ -3,14 +3,16 @@
 
 This repository contains the list of projects for taginfo. See
 
-https://wiki.openstreetmap.org/wiki/Taginfo/Projects
+* [Description on Wiki](https://wiki.openstreetmap.org/wiki/Taginfo/Projects)
+* [Projects table](https://taginfo.openstreetmap.org/projects)
+* [Fetch status table](https://taginfo.openstreetmap.org/taginfo/projects)
 
 [![Build Status](https://secure.travis-ci.org/taginfo/taginfo-projects.png)](https://travis-ci.org/taginfo/taginfo-projects)
 
 
 ## Notes for contributors
 
-To add you project, add a line to `project_list.txt` with a unique ID and the
+To add your project, add a line to `project_list.txt` with a unique ID and the
 link to your JSON project file.
 
 ### Choosing a unique ID
