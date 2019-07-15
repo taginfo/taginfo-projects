@@ -1,3 +1,4 @@
+anyfinder https://static.anyfinder.info/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/babykarte.github.io/master/taginfo.json
 bano https://bano.openstreetmap.fr/bano_taginfo.json
