@@ -1,6 +1,6 @@
 anyfinder https://static.anyfinder.info/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
-babykarte https://raw.githubusercontent.com/babykarte/babykarte.github.io/master/taginfo.json
+babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
 bano https://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
