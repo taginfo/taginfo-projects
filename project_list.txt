@@ -60,6 +60,7 @@ osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/os
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
+osmdataxyz https://raw.githubusercontent.com/michaelmgis/osmdata.xyz/master/taginfo/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
 osmmosques https://www.osmmosques.org/taginfo.json
