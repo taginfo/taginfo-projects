@@ -5,7 +5,7 @@ bano https://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
 bus_lanes https://raw.githubusercontent.com/zlant/bus-lanes/master/taginfo.json
-busy_hours https://raw.githubusercontent.com/Jungle-Bus/Busy-Hours/taginfo/taginfo.json
+busy_hours https://raw.githubusercontent.com/Jungle-Bus/Busy-Hours/master/taginfo.json
 cartovrac https://raw.githubusercontent.com/vivreanantes/cartovrac/master/taginfo.json
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
 closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
