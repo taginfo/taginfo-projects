@@ -1,4 +1,4 @@
-anyfinder https://static.anyfinder.info/taginfo.json
+anyfinder https://anyfinder.info/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
