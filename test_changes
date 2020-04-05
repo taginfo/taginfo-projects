@@ -62,6 +62,15 @@ do
         if [ $? == 0 ]
         then
             echo -e "${ansi_color_green}-- taginfo.json is valid JSON${ansi_color_reset}"
+            python -m jsonschema --instance "$tempdir/taginfo.json" taginfo-project-schema.json
+            if [ $? == 0 ]
+            then
+                echo -e "${ansi_color_green}-- taginfo.json validates against JSON schema${ansi_color_reset}"
+            else
+                echo "" 1>&2
+                echo -e "${ansi_color_red}-- taginfo.json does not validate against JSON schema${ansi_color_reset}" 1>&2
+                exit_code=$((exit_code+1))
+            fi
         else
             echo "" 1>&2
             echo -e "${ansi_color_red}-- taginfo.json is not valid JSON${ansi_color_reset}" 1>&2
