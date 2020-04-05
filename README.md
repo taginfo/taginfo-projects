@@ -3,6 +3,7 @@
 
 This repository contains the list of projects for taginfo. See
 
+* [JSON schema](https://github.com/taginfo/taginfo-projects/blob/master/taginfo-project-schema.json)
 * [Description on Wiki](https://wiki.openstreetmap.org/wiki/Taginfo/Projects)
 * [Projects table](https://taginfo.openstreetmap.org/projects)
 * [Fetch status table](https://taginfo.openstreetmap.org/taginfo/projects)
