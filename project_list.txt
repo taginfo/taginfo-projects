@@ -20,7 +20,7 @@ hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
 hundekottuetenspender https://wambachers-osm.website/hkts/taginfo.json
-id_editor https://raw.githubusercontent.com/openstreetmap/iD/develop/data/taginfo.json
+id_editor https://raw.githubusercontent.com/openstreetmap/iD/release/data/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
