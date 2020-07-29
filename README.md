@@ -8,7 +8,7 @@ This repository contains the list of projects for taginfo. See
 * [Projects table](https://taginfo.openstreetmap.org/projects)
 * [Fetch status table](https://taginfo.openstreetmap.org/taginfo/projects)
 
-[![Build Status](https://secure.travis-ci.org/taginfo/taginfo-projects.png)](https://travis-ci.org/taginfo/taginfo-projects)
+[![Build Status](https://travis-ci.org/taginfo/taginfo-projects.svg?branch=master)](https://travis-ci.org/taginfo/taginfo-projects)
 
 
 ## Notes for contributors
