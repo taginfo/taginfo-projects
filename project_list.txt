@@ -67,7 +67,7 @@ osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/tagi
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
-raba_kgz_import http://raba.openstreetmap.si/taginfo.json
+raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 slovenia_address_import https://raw.githubusercontent.com/openstreetmap-si/GursAddressesForOSM/master/taginfo.json
@@ -89,4 +89,4 @@ waymarkedtrails https://static.waymarkedtrails.org/taginfo.json
 wikidata_org https://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap https://wuzzelmap.ck.si/taginfo.json
 xctrails https://www.xctrails.org/taginfo.json
-yohours http://projets.pavie.info/yohours/taginfo.json
+yohours https://projets.pavie.info/yohours/taginfo.json
