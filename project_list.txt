@@ -20,7 +20,7 @@ geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
-id_editor https://raw.githubusercontent.com/openstreetmap/iD/release/data/taginfo.json
+id_editor https://raw.githubusercontent.com/openstreetmap/iD/release/dist/data/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
