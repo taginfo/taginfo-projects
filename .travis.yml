@@ -1,8 +1,0 @@
-language: python
-python:
-  - "3.8"
-install:
-  - pip3 install jsonschema
-
-script:
-  - ./test_changes

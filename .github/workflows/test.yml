@@ -1,0 +1,14 @@
+name: Test
+
+on: [push, pull_request]
+
+jobs:
+    ubuntu20:
+        runs-on: ubuntu-20.04
+        steps:
+            - uses: actions/checkout@v2
+              with:
+                fetch-depth: 0
+            - run: |
+                ./test_changes
+
