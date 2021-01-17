@@ -41,6 +41,7 @@ opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_
 openlevelup https://openlevelup.net/taginfo.json
 openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
+openskimap https://openskimap.org/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
 openvegemap https://raw.githubusercontent.com/Rudloff/openvegemap/master/taginfo.json
