@@ -58,6 +58,7 @@ matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/master/dist/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
+nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openinframap https://openinframap.org/taginfo.json
