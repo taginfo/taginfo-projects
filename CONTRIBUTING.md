@@ -1,7 +1,7 @@
 
 # Notes for contributors
 
-To add you project, add a line to `project_list.txt` with a unique ID and the
+To add you project, add a line to [project_list.txt](project_list.txt) with a unique ID and the
 link to your JSON project file.
 
 ## Choosing a unique ID
