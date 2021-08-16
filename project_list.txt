@@ -113,6 +113,7 @@ traffic_signs_eur https://raw.githubusercontent.com/yopaseopor/beta_style_josm/m
 traffic_signs_eur_or https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_eur_or.json
 traffic_signs_pac https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json
 umweltzone https://raw.githubusercontent.com/Umweltzone/Umweltzone/master/openstreetmap-taginfo/taginfo.json
+unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 veggiekarte https://raw.githubusercontent.com/piratenpanda/veggiekarte/master/data/taginfo.json
