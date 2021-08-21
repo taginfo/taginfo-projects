@@ -27,8 +27,7 @@ ansi_color_reset='\033[0m'
 
 ## Check if sorted {{{
 LC_ALL=C sort --unique project_list.txt > project_list_sorted.txt
-git --no-pager diff --color-words --no-index project_list.txt project_list_sorted.txt
-if [ $? == 0 ]
+if git --no-pager diff --color-words --no-index project_list.txt project_list_sorted.txt
 then
     echo -e "${ansi_color_green}- project_list.txt is sorted${ansi_color_reset}"
 else
@@ -54,16 +53,13 @@ do
     fi
     ## Ensure that the output files does not yet exist.
     tempdir="$(mktemp --directory)"
-    curl --location --silent "$url" --output "$tempdir/taginfo.json"
-    if [ $? == 0 ]
+    if curl --location --silent "$url" --output "$tempdir/taginfo.json"
     then
         echo -e "${ansi_color_green}-- taginfo.json can be retrieved${ansi_color_reset}"
-        jq '.' "$tempdir/taginfo.json" > /dev/null
-        if [ $? == 0 ]
+        if jq '.' "$tempdir/taginfo.json" > /dev/null
         then
             echo -e "${ansi_color_green}-- taginfo.json is valid JSON${ansi_color_reset}"
-            python -m jsonschema --instance "$tempdir/taginfo.json" taginfo-project-schema.json
-            if [ $? == 0 ]
+            if python -m jsonschema --instance "$tempdir/taginfo.json" taginfo-project-schema.json
             then
                 echo -e "${ansi_color_green}-- taginfo.json validates against JSON schema${ansi_color_reset}"
             else
