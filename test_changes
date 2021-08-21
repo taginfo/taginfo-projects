@@ -41,7 +41,7 @@ fi
 git diff "${latest_upstream_master_commit_hash}..HEAD" --color=always -- project_list.txt \
     | perl -wlne 'print $1 if /^\e\[32m\+\e\[m\e\[32m(.*)\e\[m$/' > project_list_diff.txt
 
-while read id url
+while read -r id url
 do
     echo "- Testing $id: $url"
     if [[ $id =~ ^[a-z][a-z0-9_]+$ ]]
