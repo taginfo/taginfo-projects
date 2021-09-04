@@ -74,7 +74,6 @@ openskimap https://openskimap.org/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
 openvegemap https://raw.githubusercontent.com/Rudloff/openvegemap/master/taginfo.json
-osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
@@ -87,6 +86,7 @@ osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtra
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extractor/master/taginfo.json
 osmand https://builder.osmand.net:8080/view/WebSite/job/OsmAndTagInfo/ws/taginfo.json
+osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
