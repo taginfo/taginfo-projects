@@ -26,6 +26,10 @@ List of things which are tested:
 * Is the ID valid?
 * Does the URL refer to a valid JSON file?
 
-You can run this test before submitting the pull request with
+You can run this test after executing the commit before submitting the pull request with
 
-    ./test_changes
+```bash
+./test_changes
+```
+
+This script requires Python and the module [`jsonschema`](https://pypi.org/project/jsonschema/), if you receive an error `No module named jsonschema` install the module with `pip install jsonschema`.
