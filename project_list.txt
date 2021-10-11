@@ -55,12 +55,12 @@ mapcomplete_openwindpowermap https://raw.githubusercontent.com/pietervdvn/MapCom
 mapcomplete_parkings https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_parkings.json
 mapcomplete_personal https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_personal.json
 mapcomplete_playgrounds https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_playgrounds.json
+mapcomplete_postboxes https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_postboxes.json
 mapcomplete_shops https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_shops.json
 mapcomplete_sport_pitches https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_sport_pitches.json
 mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_surveillance.json
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_toilets.json
 mapcomplete_trees https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_trees.json
-mapcomplete_uk_addresses https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_uk_addresses.json
 mapcomplete_waste_basket https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_waste_basket.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
