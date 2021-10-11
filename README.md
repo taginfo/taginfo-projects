@@ -29,7 +29,7 @@ ordering. This makes it easier for others to create unique IDs.
 
 ### Testing
 
-Your pull request will be tested with Travis CI.
+Your pull request will be tested with GitHub Actions.
 
 List of things which are tested:
 
@@ -40,4 +40,3 @@ List of things which are tested:
 You can run this test before submitting the pull request with
 
     ./test_changes
-

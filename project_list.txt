@@ -21,11 +21,14 @@ geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place http://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
-id_editor https://raw.githubusercontent.com/openstreetmap/iD/release/dist/data/taginfo.min.json
+id_editor https://raw.githubusercontent.com/openstreetmap/id-tagging-schema/main/dist/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
+lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/general_high_zoom_taginfo.json
+lunar_assembler_laser_neighbourhood https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_neighbourhood_taginfo.json
+lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_road_area_taginfo.json
 map_features https://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation-ios/master/taginfo.json
 mapcomplete_aed https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_aed.json
@@ -68,8 +71,10 @@ matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/master/dist/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
+nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
+openetymologymap https://www.dsantini.it/etymology/taginfo.json
 openinframap https://openinframap.org/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/opening-hours/opening_hours.js/master/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_map/master/taginfo.json
@@ -92,6 +97,7 @@ osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtra
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extractor/master/taginfo.json
 osmand https://builder.osmand.net:8080/view/WebSite/job/OsmAndTagInfo/ws/taginfo.json
+osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
@@ -119,6 +125,7 @@ traffic_signs_eur https://raw.githubusercontent.com/yopaseopor/beta_style_josm/m
 traffic_signs_eur_or https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_eur_or.json
 traffic_signs_pac https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json
 umweltzone https://raw.githubusercontent.com/Umweltzone/Umweltzone/master/openstreetmap-taginfo/taginfo.json
+unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 veggiekarte https://raw.githubusercontent.com/piratenpanda/veggiekarte/master/data/taginfo.json

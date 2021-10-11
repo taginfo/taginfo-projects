@@ -1,7 +1,7 @@
 
 # Notes for contributors
 
-To add you project, add a line to `project_list.txt` with a unique ID and the
+To add you project, add a line to [project_list.txt](project_list.txt) with a unique ID and the
 link to your JSON project file.
 
 ## Choosing a unique ID
@@ -18,7 +18,7 @@ ordering. This makes it easier for others to create unique IDs.
 
 ## Testing
 
-Your pull request will be tested with Travis CI.
+Your pull request will be tested with GitHub Actions.
 
 List of things which are tested:
 
@@ -26,7 +26,10 @@ List of things which are tested:
 * Is the ID valid?
 * Does the URL refer to a valid JSON file?
 
-You can run this test before submitting the pull request with
+You can run this test after executing the commit before submitting the pull request with
 
-    ./test_changes
+```bash
+./test_changes
+```
 
+This script requires Python and the module [`jsonschema`](https://pypi.org/project/jsonschema/), if you receive an error `No module named jsonschema` install the module with `pip install jsonschema`.
