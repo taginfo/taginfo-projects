@@ -26,6 +26,7 @@ indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/tag
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
+knooppuntnet https://raw.githubusercontent.com/vmarc/knooppuntnet/develop/docs/taginfo.json
 lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/general_high_zoom_taginfo.json
 lunar_assembler_laser_neighbourhood https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_neighbourhood_taginfo.json
 lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_road_area_taginfo.json
