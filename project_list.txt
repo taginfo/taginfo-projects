@@ -45,6 +45,7 @@ mapcomplete_cycle_infra https://raw.githubusercontent.com/pietervdvn/MapComplete
 mapcomplete_cyclestreets https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_cyclestreets.json
 mapcomplete_cyclofix https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_cyclofix.json
 mapcomplete_drinking_water https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_drinking_water.json
+mapcomplete_etymology https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_etymology.json
 mapcomplete_facadegardens https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_facadegardens.json
 mapcomplete_food https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_food.json
 mapcomplete_fritures https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_fritures.json
@@ -61,6 +62,7 @@ mapcomplete_playgrounds https://raw.githubusercontent.com/pietervdvn/MapComplete
 mapcomplete_postboxes https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_postboxes.json
 mapcomplete_shops https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_shops.json
 mapcomplete_sport_pitches https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_sport_pitches.json
+mapcomplete_street_lighting https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_street_lighting.json
 mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_surveillance.json
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_toilets.json
 mapcomplete_trees https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_trees.json
