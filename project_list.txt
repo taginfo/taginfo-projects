@@ -1,3 +1,4 @@
+aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 anyfinder https://anyfinder.info/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
