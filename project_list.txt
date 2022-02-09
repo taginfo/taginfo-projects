@@ -13,6 +13,7 @@ caresteouvert https://raw.githubusercontent.com/osmontrouge/caresteouvert/master
 cartomobil_ite https://raw.githubusercontent.com/Cartomobil-ite/cartomobil-ite/master/taginfo.json
 cartovrac https://raw.githubusercontent.com/vivreanantes/cartovrac/master/taginfo.json
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
+ciclovia_bogota https://github.com/MaptimeBogota/Varios/blob/main/proyecto-ciclovia/taginfo.json
 closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
