@@ -95,6 +95,7 @@ osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
+osm_americana https://zelonewolf.github.io/openstreetmap-americana/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
 osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/master/Documentation/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
