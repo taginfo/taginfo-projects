@@ -106,6 +106,7 @@ osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extr
 osmand https://builder.osmand.net:8080/view/WebSite/job/OsmAndTagInfo/ws/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
+osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/main/taginfo.json
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
