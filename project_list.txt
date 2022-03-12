@@ -38,6 +38,7 @@ mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation
 mapcomplete_aed https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_aed.json
 mapcomplete_artwork https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_artwork.json
 mapcomplete_benches https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_benches.json
+mapcomplete_bicycle_rental https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_bicycle_rental.json
 mapcomplete_bicyclelib https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_bicyclelib.json
 mapcomplete_binoculars https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_binoculars.json
 mapcomplete_bookcases https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_bookcases.json
@@ -49,6 +50,7 @@ mapcomplete_cycle_infra https://raw.githubusercontent.com/pietervdvn/MapComplete
 mapcomplete_cyclestreets https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_cyclestreets.json
 mapcomplete_cyclofix https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_cyclofix.json
 mapcomplete_drinking_water https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_drinking_water.json
+mapcomplete_entrances https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_entrances.json
 mapcomplete_etymology https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_etymology.json
 mapcomplete_facadegardens https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_facadegardens.json
 mapcomplete_food https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_food.json
@@ -70,6 +72,7 @@ mapcomplete_street_lighting https://raw.githubusercontent.com/pietervdvn/MapComp
 mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_surveillance.json
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_toilets.json
 mapcomplete_trees https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_trees.json
+mapcomplete_waste https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_waste.json
 mapcomplete_waste_basket https://raw.githubusercontent.com/pietervdvn/MapComplete/master/Docs/TagInfo/mapcomplete_waste_basket.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
