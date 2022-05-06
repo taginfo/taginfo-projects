@@ -64,6 +64,7 @@ mapcomplete_observation_towers https://raw.githubusercontent.com/pietervdvn/MapC
 mapcomplete_openwindpowermap https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_openwindpowermap.json
 mapcomplete_parkings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_parkings.json
 mapcomplete_personal https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_personal.json
+mapcomplete_pets https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_pets.json
 mapcomplete_playgrounds https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_playgrounds.json
 mapcomplete_postboxes https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_postboxes.json
 mapcomplete_shops https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_shops.json
