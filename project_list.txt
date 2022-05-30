@@ -22,7 +22,7 @@ direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.js
 fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
-historic_place http://gk.historic.place/taginfo/historic.place.json
+historic_place https://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/id-tagging-schema/main/dist/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
