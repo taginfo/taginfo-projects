@@ -79,7 +79,6 @@ mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplet
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_toilets.json
 mapcomplete_transit https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_transit.json
 mapcomplete_trees https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_trees.json
-mapcomplete_walls_and_buildings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_walls_and_buildings.json
 mapcomplete_waste https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_waste.json
 mapcomplete_waste_basket https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_waste_basket.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
