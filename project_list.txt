@@ -132,7 +132,7 @@ scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/te
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 slovenia_address_import https://raw.githubusercontent.com/openstreetmap-si/GursAddressesForOSM/master/taginfo.json
 someoneelse_style https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-style/master/taginfo.json
-streetcomplete https://goldfndr.github.io/StreetCompleteJSON/taginfo.json
+streetcomplete https://raw.githubusercontent.com/matkoniecz/Zazolc/taginfo/res/documentation/taginfo_listing_of_tags_added_or_edited_by_StreetComplete.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
 traffic_signs_afr https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_afr.json
