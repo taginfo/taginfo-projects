@@ -82,6 +82,7 @@ maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master
 name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/master/dist/taginfo.json
 next_charging_station https://www.nextchargingstation.org/taginfo.json
 next_parking_lot https://www.nextparkinglot.org/taginfo.json
+next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
