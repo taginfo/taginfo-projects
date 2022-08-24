@@ -51,7 +51,6 @@ mapcomplete_cyclestreets https://raw.githubusercontent.com/pietervdvn/MapComplet
 mapcomplete_cyclofix https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cyclofix.json
 mapcomplete_drinking_water https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_drinking_water.json
 mapcomplete_education https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_education.json
-mapcomplete_entrances https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_entrances.json
 mapcomplete_etymology https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_etymology.json
 mapcomplete_facadegardens https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_facadegardens.json
 mapcomplete_food https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_food.json
@@ -60,11 +59,14 @@ mapcomplete_ghostbikes https://raw.githubusercontent.com/pietervdvn/MapComplete/
 mapcomplete_hackerspaces https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_hackerspaces.json
 mapcomplete_hailhydrant https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_hailhydrant.json
 mapcomplete_healthcare https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_healthcare.json
+mapcomplete_hotels https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_hotels.json
+mapcomplete_indoors https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_indoors.json
 mapcomplete_kerbs_and_crossings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_kerbs_and_crossings.json
 mapcomplete_maps https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_maps.json
 mapcomplete_maxspeed https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_maxspeed.json
 mapcomplete_nature https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_nature.json
 mapcomplete_observation_towers https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_observation_towers.json
+mapcomplete_onwheels https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_onwheels.json
 mapcomplete_openwindpowermap https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_openwindpowermap.json
 mapcomplete_parkings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_parkings.json
 mapcomplete_personal https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_personal.json
