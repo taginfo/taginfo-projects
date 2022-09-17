@@ -118,6 +118,7 @@ osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/master/D
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways https://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
 osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
+osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/main/tmpl/static/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extractor/master/taginfo.json
 osmand https://builder.osmand.net:8080/view/WebSite/job/OsmAndTagInfo/ws/taginfo.json
