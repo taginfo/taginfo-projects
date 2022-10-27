@@ -41,6 +41,7 @@ mapcomplete_benches https://raw.githubusercontent.com/pietervdvn/MapComplete/dev
 mapcomplete_bicycle_rental https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicycle_rental.json
 mapcomplete_bicyclelib https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicyclelib.json
 mapcomplete_binoculars https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_binoculars.json
+mapcomplete_blind_osm https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_blind_osm.json
 mapcomplete_bookcases https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bookcases.json
 mapcomplete_cafes_and_pubs https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cafes_and_pubs.json
 mapcomplete_campersite https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_campersite.json
@@ -76,6 +77,7 @@ mapcomplete_postboxes https://raw.githubusercontent.com/pietervdvn/MapComplete/d
 mapcomplete_rainbow_crossings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_rainbow_crossings.json
 mapcomplete_shops https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_shops.json
 mapcomplete_sport_pitches https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_sport_pitches.json
+mapcomplete_sports https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_sports.json
 mapcomplete_street_lighting https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_street_lighting.json
 mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_surveillance.json
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_toilets.json
