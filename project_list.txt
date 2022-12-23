@@ -37,6 +37,7 @@ map_features https://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation-ios/master/taginfo.json
 mapcomplete_aed https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_aed.json
 mapcomplete_artwork https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_artwork.json
+mapcomplete_atm https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_atm.json
 mapcomplete_benches https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_benches.json
 mapcomplete_bicycle_rental https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicycle_rental.json
 mapcomplete_bicyclelib https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicyclelib.json
