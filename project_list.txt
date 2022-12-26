@@ -117,7 +117,7 @@ osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortile
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_americana https://zelonewolf.github.io/openstreetmap-americana/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
-osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/master/Documentation/taginfo.json
+osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/main/Documentation/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways https://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
 osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
