@@ -97,6 +97,7 @@ next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
+openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
 opencampingmap https://raw.githubusercontent.com/giggls/opencampsitemap/master/taginfo.json
