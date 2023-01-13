@@ -161,6 +161,7 @@ unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 usage_bot_commons https://raw.githubusercontent.com/bjh21/usage-bot/main/taginfo-commons.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
+validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json
 veggiekarte https://raw.githubusercontent.com/piratenpanda/veggiekarte/master/data/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 vrcholy https://vrcholy.herokuapp.com/taginfo.json
