@@ -37,6 +37,7 @@ map_features https://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
 mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation-ios/master/taginfo.json
 mapcomplete_aed https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_aed.json
 mapcomplete_artwork https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_artwork.json
+mapcomplete_atm https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_atm.json
 mapcomplete_benches https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_benches.json
 mapcomplete_bicycle_rental https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicycle_rental.json
 mapcomplete_bicyclelib https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_bicyclelib.json
@@ -96,6 +97,7 @@ next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
+openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
 opencampingmap https://raw.githubusercontent.com/giggls/opencampsitemap/master/taginfo.json
@@ -117,7 +119,7 @@ osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortile
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_americana https://zelonewolf.github.io/openstreetmap-americana/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
-osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/master/Documentation/taginfo.json
+osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/main/Documentation/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways https://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
 osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
@@ -131,7 +133,6 @@ osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/ma
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
-osmdataxyz https://raw.githubusercontent.com/michaelmgis/osmdata.xyz/master/taginfo/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
 osmmosques https://www.osmmosques.org/taginfo.json
@@ -145,6 +146,7 @@ raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 slovenia_address_import https://raw.githubusercontent.com/openstreetmap-si/GursAddressesForOSM/master/taginfo.json
+someoneelse_mkgmap_ajt02 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap_style_ajt/master/taginfo_ajt02.json
 someoneelse_style https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-style/master/taginfo.json
 streetcomplete https://raw.githubusercontent.com/matkoniecz/Zazolc/taginfo/res/documentation/taginfo_listing_of_tags_added_or_edited_by_StreetComplete.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
@@ -160,6 +162,7 @@ unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 usage_bot_commons https://raw.githubusercontent.com/bjh21/usage-bot/main/taginfo-commons.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
+validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json
 veggiekarte https://raw.githubusercontent.com/piratenpanda/veggiekarte/master/data/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 vrcholy https://vrcholy.herokuapp.com/taginfo.json
