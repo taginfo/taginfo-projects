@@ -96,6 +96,7 @@ next_parking_lot https://www.nextparkinglot.org/taginfo.json
 next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
+nz_place_names https://raw.githubusercontent.com/osm-nz/place-name-conflation/main/taginfo.json
 openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
