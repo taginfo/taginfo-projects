@@ -1,5 +1,4 @@
 aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
-anyfinder https://anyfinder.info/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
@@ -97,7 +96,6 @@ next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 nz_place_names https://raw.githubusercontent.com/osm-nz/place-name-conflation/main/taginfo.json
-openadvertmap https://openadvertmap.pavie.info/taginfo.json
 openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
@@ -106,7 +104,6 @@ openetymologymap https://www.dsantini.it/etymology/taginfo.json
 openinframap https://openinframap.org/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/opening-hours/opening_hours.js/master/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_map/master/taginfo.json
-openlevelup https://openlevelup.net/taginfo.json
 openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 openskimap https://openskimap.org/taginfo.json
@@ -127,7 +124,6 @@ osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtra
 osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/main/tmpl/static/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extractor/master/taginfo.json
-osmand https://builder.osmand.net:8080/view/WebSite/job/OsmAndTagInfo/ws/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
 osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/main/taginfo.json
