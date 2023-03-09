@@ -32,4 +32,7 @@ You can run this test after executing the commit before submitting the pull requ
 ./test_changes
 ```
 
-This script requires Python and the module [`jsonschema`](https://pypi.org/project/jsonschema/), if you receive an error `No module named jsonschema` install the module with `pip install jsonschema`.
+This script requires
+* jq
+* Python
+* the Python module [`jsonschema`](https://pypi.org/project/jsonschema/) (if you receive an error `No module named jsonschema` install the module with `pip install jsonschema`).
