@@ -46,6 +46,7 @@ mapcomplete_cafes_and_pubs https://raw.githubusercontent.com/pietervdvn/MapCompl
 mapcomplete_campersite https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_campersite.json
 mapcomplete_charging_stations https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_charging_stations.json
 mapcomplete_climbing https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_climbing.json
+mapcomplete_clock https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_clock.json
 mapcomplete_cycle_infra https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cycle_infra.json
 mapcomplete_cyclestreets https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cyclestreets.json
 mapcomplete_cyclofix https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cyclofix.json
