@@ -35,6 +35,7 @@ lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/l
 lunar_assembler_laser_neighbourhood https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_neighbourhood_taginfo.json
 lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_road_area_taginfo.json
 mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation-ios/master/taginfo.json
+mapcomplete_advertising https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_advertising.json
 mapcomplete_aed https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_aed.json
 mapcomplete_artwork https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_artwork.json
 mapcomplete_atm https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_atm.json
@@ -54,6 +55,7 @@ mapcomplete_cyclestreets https://raw.githubusercontent.com/pietervdvn/MapComplet
 mapcomplete_cyclofix https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_cyclofix.json
 mapcomplete_drinking_water https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_drinking_water.json
 mapcomplete_education https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_education.json
+mapcomplete_elongated_coin https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_elongated_coin.json
 mapcomplete_etymology https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_etymology.json
 mapcomplete_facadegardens https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_facadegardens.json
 mapcomplete_food https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_food.json
@@ -68,6 +70,7 @@ mapcomplete_kerbs_and_crossings https://raw.githubusercontent.com/pietervdvn/Map
 mapcomplete_maps https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_maps.json
 mapcomplete_maxspeed https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_maxspeed.json
 mapcomplete_nature https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_nature.json
+mapcomplete_notes https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_notes.json
 mapcomplete_observation_towers https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_observation_towers.json
 mapcomplete_onwheels https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_onwheels.json
 mapcomplete_openwindpowermap https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_openwindpowermap.json
@@ -85,6 +88,7 @@ mapcomplete_surveillance https://raw.githubusercontent.com/pietervdvn/MapComplet
 mapcomplete_toilets https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_toilets.json
 mapcomplete_transit https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_transit.json
 mapcomplete_trees https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_trees.json
+mapcomplete_vending_machine https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_vending_machine.json
 mapcomplete_waste https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_waste.json
 mapcomplete_waste_basket https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_waste_basket.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
