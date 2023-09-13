@@ -103,6 +103,8 @@ nominatim https://nominatim.openstreetmap.org/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 nz_place_names https://raw.githubusercontent.com/osm-nz/place-name-conflation/main/taginfo.json
 openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
+openarchitectmap https://architect.dsantini.it/taginfo.json
+openartistmap https://artist.dsantini.it/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
 openburialmap https://burial.dsantini.it/taginfo.json
@@ -143,6 +145,7 @@ osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
 osmmosques https://www.osmmosques.org/taginfo.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
+osmwikidatamap https://osmwd.dsantini.it/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
