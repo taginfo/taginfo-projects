@@ -151,6 +151,7 @@ parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/tagin
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
+public_bookcases_map https://raw.githubusercontent.com/ToastHawaii/public-bookcase-map/master/taginfo.json
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
