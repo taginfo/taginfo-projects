@@ -149,6 +149,7 @@ osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/tagi
 osmwikidatamap https://osmwd.dsantini.it/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
+peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
