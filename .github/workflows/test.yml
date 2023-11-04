@@ -3,10 +3,10 @@ name: Test
 on: [push, pull_request]
 
 jobs:
-    ubuntu20:
-        runs-on: ubuntu-20.04
+    ubuntu22:
+        runs-on: ubuntu-22.04
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v4
               with:
                 fetch-depth: 0
             - run: |
