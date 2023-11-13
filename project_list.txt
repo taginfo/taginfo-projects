@@ -177,6 +177,7 @@ traffic_signs_eur_or https://raw.githubusercontent.com/yopaseopor/beta_style_jos
 traffic_signs_fi https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_fi.json
 traffic_signs_nl https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_nl.json
 traffic_signs_pac https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json
+traffic_signs_us https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_us.json
 umweltzone https://raw.githubusercontent.com/Umweltzone/Umweltzone/master/openstreetmap-taginfo/taginfo.json
 unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
