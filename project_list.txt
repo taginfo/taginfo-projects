@@ -22,6 +22,7 @@ dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
+guru_maps https://raw.githubusercontent.com/GuruMaps/MapStyle/master/taginfo.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place https://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
