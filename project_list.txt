@@ -167,6 +167,7 @@ someoneelse_mkgmap_ajt03 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap
 someoneelse_style https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-style/master/taginfo.json
 strassenraumkarte https://raw.githubusercontent.com/SupaplexOSM/strassenraumkarte-neukoelln/main/mapstyle/taginfo/taginfo.json
 streetcomplete https://raw.githubusercontent.com/matkoniecz/Zazolc/taginfo/res/documentation/taginfo_listing_of_tags_added_or_edited_by_StreetComplete.json
+streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
