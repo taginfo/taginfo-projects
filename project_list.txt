@@ -154,6 +154,7 @@ osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
+power_grid https://www.flosm.org/src/projects/powergrid_taginfo.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
 public_bookcases_map https://raw.githubusercontent.com/ToastHawaii/public-bookcase-map/master/taginfo.json
