@@ -1,3 +1,4 @@
+administrative_boundaries https://www.flosm.org/src/projects/administrative_boundaries_taginfo.json
 aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
@@ -22,6 +23,10 @@ cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
+flosm_cycling_map https://www.flosm.org/src/projects/cycling_map_taginfo.json
+flosm_poi_map https://www.flosm.org/src/projects/poimap_taginfo.json
+flosm_public_transport https://www.flosm.org/src/projects/public_transport_taginfo.json
+flosm_seamap_watersports https://www.flosm.org/src/projects/seamap_watersports_taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 guru_maps https://raw.githubusercontent.com/GuruMaps/MapStyle/master/taginfo.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
