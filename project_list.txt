@@ -173,6 +173,7 @@ streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
+tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
 traffic_signs_afr https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_afr.json
 traffic_signs_ame https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_ame.json
 traffic_signs_by https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_by.json
