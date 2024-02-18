@@ -32,6 +32,7 @@ guru_maps https://raw.githubusercontent.com/GuruMaps/MapStyle/master/taginfo.jso
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
 historic_place https://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
+hofladen_finder https://www.hofladenfinder.org/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/id-tagging-schema/main/dist/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
