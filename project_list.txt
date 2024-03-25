@@ -112,6 +112,7 @@ nominatim https://nominatim.openstreetmap.org/taginfo.json
 nwb2osm https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
 nz_place_names https://raw.githubusercontent.com/osm-nz/place-name-conflation/main/taginfo.json
+openaed https://raw.githubusercontent.com/openaed/openaed/main/taginfo.json
 openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openarchitectmap https://architect.dsantini.it/taginfo.json
 openartistmap https://artist.dsantini.it/taginfo.json
