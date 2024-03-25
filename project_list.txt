@@ -104,7 +104,7 @@ mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overl
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
-name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/master/dist/taginfo.json
+name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/taginfo.json
 next_charging_station https://www.nextchargingstation.org/taginfo.json
 next_parking_lot https://www.nextparkinglot.org/taginfo.json
 next_picnic https://www.nextpicnic.org/taginfo.json
