@@ -168,6 +168,7 @@ openlandcovermap https://raw.githubusercontent.com/Zkir/generalized_landcovers/m
 openlovemap_org https://openlovemap.org/taginfo.json
 opennwb https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/taginfo.json
 opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/road-operators/taginfo.json
+openrailrouting https://raw.githubusercontent.com/geofabrik/OpenRailRouting/refs/heads/master/taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 openrailwaymap_vector https://openrailwaymap.app/taginfo.json
 openskimap https://openskimap.org/taginfo.json
