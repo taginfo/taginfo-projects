@@ -22,6 +22,7 @@ cycling_qa https://github.com/britiger/openmaptiles-cycling-qa-deploy/raw/main/w
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
+dubious_tags_mk https://codeberg.org/matkoniecz/dubious_tags/raw/branch/master/tags_in_taginfo_format.json
 fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
 flosm_cycling_map https://www.flosm.org/src/projects/cycling_map_taginfo.json
 flosm_poi_map https://www.flosm.org/src/projects/poimap_taginfo.json
