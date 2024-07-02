@@ -207,6 +207,7 @@ veggiekarte https://codeberg.org/piratenpanda/veggiekarte/raw/branch/main/data/t
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 vrcholy https://vrcholy.herokuapp.com/taginfo.json
 wanderreitkarte https://www.wanderreitkarte.de/download/taginfo.json
+waterwaymap_org https://waterwaymap.org/taginfo.json
 waymarkedtrails https://static.waymarkedtrails.org/taginfo.json
 wikidata_org https://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap https://wuzzelmap.ck.si/taginfo.json
