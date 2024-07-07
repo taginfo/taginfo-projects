@@ -165,9 +165,10 @@ parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/tagin
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 power_grid https://www.flosm.org/src/projects/powergrid_taginfo.json
+priceless_map https://priceless.zottelig.ch/taginfo.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
-public_bookcases_map https://raw.githubusercontent.com/ToastHawaii/public-bookcase-map/master/taginfo.json
+public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
@@ -182,6 +183,7 @@ strassenraumkarte https://raw.githubusercontent.com/SupaplexOSM/strassenraumkart
 streetcomplete https://raw.githubusercontent.com/matkoniecz/Zazolc/taginfo/res/documentation/taginfo_listing_of_tags_added_or_edited_by_StreetComplete.json
 streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
+sustainable_map https://sustainable.zottelig.ch/taginfo.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
 tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
