@@ -212,6 +212,6 @@ wikidata_org https://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap https://wuzzelmap.ck.si/taginfo.json
 xctrails https://www.xctrails.org/taginfo.json
 yohours https://projets.pavie.info/yohours/taginfo.json
-zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
+zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
