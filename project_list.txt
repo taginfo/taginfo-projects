@@ -204,6 +204,7 @@ valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json
 veggiekarte https://codeberg.org/piratenpanda/veggiekarte/raw/branch/main/data/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
+vespucci_style https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo-style.json
 vrcholy https://vrcholy.herokuapp.com/taginfo.json
 wanderreitkarte https://www.wanderreitkarte.de/download/taginfo.json
 waterwaymap_org https://waterwaymap.org/taginfo.json
