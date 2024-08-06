@@ -177,6 +177,7 @@ someoneelse_mkgmap_ajt02 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap
 someoneelse_mkgmap_ajt03 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap_style_ajt/master/taginfo_ajt03.json
 someoneelse_style https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-style/master/taginfo.json
 someoneelse_vector_sve01 https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-vector-extract/main/resources/taginfo_sve01.json
+spielplatzkarte https://raw.githubusercontent.com/SupaplexOSM/spielplatzkarte/main/taginfo/taginfo.json
 strassenraumkarte https://raw.githubusercontent.com/SupaplexOSM/strassenraumkarte-neukoelln/main/mapstyle/taginfo/taginfo.json
 streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
