@@ -219,4 +219,3 @@ zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
 defikarte_ch https://www.defikarte.ch/taginfo.json
-
