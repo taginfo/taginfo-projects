@@ -20,6 +20,7 @@ coinmap https://raw.githubusercontent.com/smartm0use/coinmap/master/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
 cycling_qa https://github.com/britiger/openmaptiles-cycling-qa-deploy/raw/main/webmap/taginfo.json
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
+defikarte_ch https://www.defikarte.ch/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 dubious_tags_mk https://codeberg.org/matkoniecz/dubious_tags/raw/branch/master/tags_in_taginfo_format.json
@@ -218,4 +219,3 @@ yohours https://projets.pavie.info/yohours/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
-defikarte_ch https://www.defikarte.ch/taginfo.json
