@@ -7,6 +7,7 @@ bano https://bano.openstreetmap.fr/bano_taginfo.json
 bexhillosm https://bexhill-osm.org.uk/assets/data/taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
+bubatzkarte_app https://raw.githubusercontent.com/LEASYSTEMS/taginfo-projects/refs/heads/lea-systems/lea-systems/bubatzkarte.json
 bus_lanes https://raw.githubusercontent.com/zlant/bus-lanes/master/taginfo.json
 busy_hours https://raw.githubusercontent.com/Jungle-Bus/Busy-Hours/master/taginfo.json
 caddieapp https://caddie.app/taginfo.json
