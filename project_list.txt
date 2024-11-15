@@ -30,6 +30,7 @@ flosm_cycling_map https://www.flosm.org/src/projects/cycling_map_taginfo.json
 flosm_poi_map https://www.flosm.org/src/projects/poimap_taginfo.json
 flosm_public_transport https://www.flosm.org/src/projects/public_transport_taginfo.json
 flosm_seamap_watersports https://www.flosm.org/src/projects/seamap_watersports_taginfo.json
+fsftn_streetlight_map https://gitlab.com/fsftn/streetlight-map/-/raw/main/taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
 guru_maps https://raw.githubusercontent.com/GuruMaps/MapStyle/master/taginfo.json
 hackerspaces_map https://www.technomancy.org/osm-hackerspaces/taginfo.json
