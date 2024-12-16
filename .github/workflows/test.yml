@@ -3,12 +3,11 @@ name: Test
 on: [push, pull_request]
 
 jobs:
-    ubuntu24:
-        runs-on: ubuntu-24.04
-        steps:
-            - uses: actions/checkout@v4
-              with:
-                fetch-depth: 0
-            - run: |
-                ./test_changes
-
+  ubuntu24:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          ./test_changes
