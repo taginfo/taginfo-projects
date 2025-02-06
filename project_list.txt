@@ -226,7 +226,7 @@ validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginf
 veggiekarte https://codeberg.org/piratenpanda/veggiekarte/raw/branch/main/data/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 vespucci_style https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo-style.json
-vrcholy https://vrcholy.herokuapp.com/taginfo.json
+vrcholy https://vrcholy.onrender.com/taginfo.json
 wanderreitkarte https://www.wanderreitkarte.de/download/taginfo.json
 waterwaymap_org https://waterwaymap.org/taginfo.json
 waymarkedtrails https://static.waymarkedtrails.org/taginfo.json
