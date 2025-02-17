@@ -1,3 +1,4 @@
+
 administrative_boundaries https://www.flosm.org/src/projects/administrative_boundaries_taginfo.json
 aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
