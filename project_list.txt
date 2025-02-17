@@ -106,6 +106,7 @@ mapcomplete_pets https://raw.githubusercontent.com/pietervdvn/MapComplete/develo
 mapcomplete_playgrounds https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_playgrounds.json
 mapcomplete_postboxes https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_postboxes.json
 mapcomplete_rainbow_crossings https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_rainbow_crossings.json
+mapcomplete_scouting https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_scouting.json
 mapcomplete_shops https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_shops.json
 mapcomplete_ski https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_ski.json
 mapcomplete_sport_pitches https://raw.githubusercontent.com/pietervdvn/MapComplete/develop/Docs/TagInfo/mapcomplete_sport_pitches.json
