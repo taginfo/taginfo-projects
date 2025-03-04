@@ -7,6 +7,11 @@
       "type": "object",
       "additionalProperties": false,
       "properties": {
+        "$schema": {
+          "type": "string",
+          "format": "uri",
+          "description": "a url to the JSON schema used to validating this file"
+        },
         "data_format": {
           "type": "integer",
           "description": "data format version, currently always 1, will get updated if there are incompatible changes to the format"
