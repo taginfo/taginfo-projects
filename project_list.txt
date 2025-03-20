@@ -152,6 +152,7 @@ openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
 opennwb https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/taginfo.json
 opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/road-operators/taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
+openrailwaymap_vector https://github.com/hiddewie/OpenRailwayMap-vector/blob/master/taginfo.json
 openskimap https://openskimap.org/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/taginfo.json
