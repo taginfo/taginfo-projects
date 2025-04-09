@@ -24,6 +24,7 @@ cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/
 defikarte_ch https://www.defikarte.ch/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
+dk_etymology https://raw.githubusercontent.com/PeterBrodersen/osmetymology/main/taginfo.json
 dubious_tags_mk https://codeberg.org/matkoniecz/dubious_tags/raw/branch/master/tags_in_taginfo_format.json
 f4 https://raw.githubusercontent.com/angoca/f4demo-in-taginfo/refs/heads/main/taginfo.json
 fahrkartenautomaten https://raw.githubusercontent.com/ubahnverleih/OSMfahrkartenautomaten/master/taginfo.json
