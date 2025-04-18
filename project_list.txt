@@ -192,6 +192,7 @@ parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/tagin
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 power_grid https://www.flosm.org/src/projects/powergrid_taginfo.json
+pride_map https://raw.githubusercontent.com/Lumikeiju/pride-map/main/taginfo.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
