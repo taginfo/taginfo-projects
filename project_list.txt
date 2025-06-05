@@ -49,6 +49,7 @@ josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets
 josm_plmergeaddresses_plugin https://raw.githubusercontent.com/praszuk/josm-plmergeadresses-plugin/master/taginfo.json
 knooppuntnet https://raw.githubusercontent.com/vmarc/knooppuntnet/develop/docs/taginfo.json
 lgbtqmap https://pkoby.github.io/LGBTQmap/taginfo.json
+list_of_lights_import https://cdn.list.lighting/taginfo.json
 lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/general_high_zoom_taginfo.json
 lunar_assembler_laser_neighbourhood https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_neighbourhood_taginfo.json
 lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_road_area_taginfo.json
@@ -135,7 +136,7 @@ next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
 nwb2osm https://raw.githubusercontent.com/FileradarBV/NWB2OSM-Taginfo/master/taginfo.json
 nz_address_import https://raw.githubusercontent.com/osm-nz/linz-address-import/main/taginfo.json
-nz_place_names https://raw.githubusercontent.com/osm-nz/place-name-conflation/main/taginfo.json
+nz_place_names https://osm-nz.github.io/place-name-conflation/taginfo.generated.json
 openaed https://raw.githubusercontent.com/openaed/openaed/main/taginfo.json
 openaedmap https://github.com/openstreetmap-polska/openaedmap-frontend/raw/dev/taginfo.json
 openarchitectmap https://architect.dsantini.it/taginfo.json
@@ -143,6 +144,7 @@ openartistmap https://artist.dsantini.it/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
 openburialmap https://burial.dsantini.it/taginfo.json
+opencameras https://kyle.kiwi/opencameras/taginfo.json
 opencampingmap https://raw.githubusercontent.com/giggls/opencampsitemap/master/taginfo.json
 openclimbing_org https://openclimbing.org/openclimbing/taginfo.json
 openetymologymap https://etymology.dsantini.it/taginfo.json
@@ -210,6 +212,7 @@ spielplatzkarte https://raw.githubusercontent.com/SupaplexOSM/spielplatzkarte/ma
 strassenraumkarte https://raw.githubusercontent.com/SupaplexOSM/strassenraumkarte-neukoelln/main/mapstyle/taginfo/taginfo.json
 streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
+subway_exit_map https://kyle.kiwi/subway-exit-map/taginfo.generated.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
 tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
