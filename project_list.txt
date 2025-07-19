@@ -216,6 +216,7 @@ streetferret https://www.streetferret.com/taginfo.json
 streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/taginfo.json
 subway_exit_map https://kyle.kiwi/subway-exit-map/taginfo.generated.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
+tigerking https://raw.githubusercontent.com/whubsch/tigerking/refs/heads/main/taginfo.json
 townlands_ie https://www.townlands.ie/taginfo.json
 tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
 traffic_signs_afr https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_afr.json
