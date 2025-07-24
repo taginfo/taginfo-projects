@@ -154,6 +154,7 @@ opening_hours_evaluation_tool https://raw.githubusercontent.com/opening-hours/op
 opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_map/master/taginfo.json
 openlandcovermap https://raw.githubusercontent.com/Zkir/generalized_landcovers/main/taginfo.json
 openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
+openlovemap_org https://openlovemap.org/taginfo.json
 opennwb https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/taginfo.json
 opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/road-operators/taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
