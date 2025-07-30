@@ -201,6 +201,7 @@ pride_map https://raw.githubusercontent.com/Lumikeiju/pride-map/main/taginfo.jso
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
+scottish_tech_army_soundscape_android https://scottish-tech-army.github.io/Soundscape-Android/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
 serbia_address_import https://gitlab.com/osm-serbia/adresniregistar/-/raw/main/ar/addresses-taginfo.json
