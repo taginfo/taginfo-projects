@@ -236,6 +236,7 @@ traffic_signs_us https://raw.githubusercontent.com/yopaseopor/beta_style_josm/ma
 umweltzone https://raw.githubusercontent.com/Umweltzone/Umweltzone/master/openstreetmap-taginfo/taginfo.json
 unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
+urbaneye3d https://raw.githubusercontent.com/Zkir/UrbanEye3D/refs/heads/master/docs/taginfo.json
 usage_bot_commons https://raw.githubusercontent.com/bjh21/usage-bot/main/taginfo-commons.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json
