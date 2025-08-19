@@ -92,6 +92,8 @@ mapcomplete_guideposts https://source.mapcomplete.org/MapComplete/MapComplete/ra
 mapcomplete_hackerspaces https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_hackerspaces.json
 mapcomplete_hailhydrant https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_hailhydrant.json
 mapcomplete_healthcare https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_healthcare.json
+mapcomplete_historic_aircraft https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_historic_aircraft.json
+mapcomplete_historic_rolling_stock https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_historic_rolling_stock.json
 mapcomplete_hotels https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_hotels.json
 mapcomplete_icecream https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_icecream.json
 mapcomplete_indoors https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_indoors.json
@@ -110,8 +112,10 @@ mapcomplete_openwindpowermap https://source.mapcomplete.org/MapComplete/MapCompl
 mapcomplete_parkings https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_parkings.json
 mapcomplete_pets https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_pets.json
 mapcomplete_playgrounds https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_playgrounds.json
+mapcomplete_police_call_boxes https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_police_call_boxes.json
 mapcomplete_postboxes https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_postboxes.json
 mapcomplete_rainbow_crossings https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_rainbow_crossings.json
+mapcomplete_sauna https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_sauna.json
 mapcomplete_scouting https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_scouting.json
 mapcomplete_shops https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_shops.json
 mapcomplete_ski https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_ski.json
@@ -125,6 +129,7 @@ mapcomplete_trees https://source.mapcomplete.org/MapComplete/MapComplete/raw/bra
 mapcomplete_vending_machine https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_vending_machine.json
 mapcomplete_waste https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_waste.json
 mapcomplete_waste_basket https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_waste_basket.json
+mapcomplete_wayside_shrines https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_wayside_shrines.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
