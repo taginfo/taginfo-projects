@@ -58,6 +58,7 @@ lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lun
 mapbox_navigation_ios https://raw.githubusercontent.com/mapbox/mapbox-navigation-ios/master/taginfo.json
 mapcomplete_advertising https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_advertising.json
 mapcomplete_aed https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_aed.json
+mapcomplete_arcade https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_arcade.json
 mapcomplete_architecture https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_architecture.json
 mapcomplete_artwork https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_artwork.json
 mapcomplete_atm https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_atm.json
@@ -98,6 +99,7 @@ mapcomplete_historic_rolling_stock https://source.mapcomplete.org/MapComplete/Ma
 mapcomplete_hotels https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_hotels.json
 mapcomplete_icecream https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_icecream.json
 mapcomplete_indoors https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_indoors.json
+mapcomplete_infrastructure https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_infrastructure.json
 mapcomplete_insects https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_insects.json
 mapcomplete_kerbs_and_crossings https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_kerbs_and_crossings.json
 mapcomplete_lactosefree https://source.mapcomplete.org/MapComplete/MapComplete/raw/branch/develop/Docs/TagInfo/mapcomplete_lactosefree.json
