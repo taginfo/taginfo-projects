@@ -177,6 +177,7 @@ osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.jso
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_americana https://americanamap.org/taginfo.json
+osm_api_js https://raw.githubusercontent.com/osmlab/osm-api-js/main/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
 osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/main/Documentation/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
