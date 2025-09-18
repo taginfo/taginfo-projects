@@ -6,6 +6,7 @@ arnis https://raw.githubusercontent.com/louis-e/arnis/refs/heads/main/taginfo.js
 autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
 bano https://bano.openstreetmap.fr/bano_taginfo.json
+better_osm_org https://raw.githubusercontent.com/deevroman/better-osm-org/master/misc/taginfo.json
 bexhillosm https://bexhill-osm.org.uk/assets/data/taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.com/assets/files/boxlocator_taginfo.json
