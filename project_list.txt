@@ -1,3 +1,4 @@
+accessmap https://raw.githubusercontent.com/TaskarCenterAtUW/AccessMap/main/taginfo.json
 administrative_boundaries https://www.flosm.org/src/projects/administrative_boundaries_taginfo.json
 aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 alm_osm2wdm https://gitlab.com/yukaimaps/yukaimaps-osm2wdm/-/raw/main/doc/taginfo.json
