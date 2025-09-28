@@ -47,6 +47,7 @@ histosm https://histosm.org/taginfo.json
 hofladen_finder https://www.hofladenfinder.org/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/id-tagging-schema/main/dist/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
+inwheel https://raw.githubusercontent.com/koinsaari/inwheel/main/taginfo.json
 josm_busstoptool_plugin https://raw.githubusercontent.com/praszuk/josm-busstoptool-plugin/refs/heads/master/taginfo.json
 josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_external_presets.json
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
