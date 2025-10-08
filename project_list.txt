@@ -176,6 +176,7 @@ opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/taginfo.json
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
 opentrailstash https://open.trailsta.sh/taginfo.json
+organicmaps https://raw.githubusercontent.com/organicmaps/organicmaps/refs/heads/master/data/taginfo.json
 osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
