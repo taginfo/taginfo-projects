@@ -214,6 +214,7 @@ power_grid https://www.flosm.org/src/projects/powergrid_taginfo.json
 pride_map https://raw.githubusercontent.com/Lumikeiju/pride-map/main/taginfo.json
 prism https://raw.githubusercontent.com/Jungle-Bus/prism/main/docs/taginfo.json
 ptna https://ptna.openstreetmap.de/taginfo.json
+publicartexplorer https://codeberg.org/toz/PublicArtExplorer/raw/branch/main/taginfo.json
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 scottish_tech_army_soundscape_android https://scottish-tech-army.github.io/Soundscape-Android/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
