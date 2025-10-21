@@ -54,6 +54,7 @@ josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_ext
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
 josm_plmergeaddresses_plugin https://raw.githubusercontent.com/praszuk/josm-plmergeadresses-plugin/master/taginfo.json
+josm_street_lamps_style https://raw.githubusercontent.com/praszuk/josm-street-lamps-style/refs/heads/master/taginfo.json
 knooppuntnet https://raw.githubusercontent.com/vmarc/knooppuntnet/develop/docs/taginfo.json
 lgbtqmap https://pkoby.github.io/LGBTQmap/taginfo.json
 list_of_lights_import https://cdn.list.lighting/taginfo.json
