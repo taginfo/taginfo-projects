@@ -4,7 +4,6 @@ aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 alm_osm2wdm https://gitlab.com/yukaimaps/yukaimaps-osm2wdm/-/raw/main/doc/taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 arnis https://raw.githubusercontent.com/louis-e/arnis/refs/heads/main/taginfo.json
-autonomy https://raw.githubusercontent.com/politick/OSM-for-Autonomous-Vehicle/master/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
 bano https://bano.openstreetmap.fr/bano_taginfo.json
 better_osm_org https://raw.githubusercontent.com/deevroman/better-osm-org/master/misc/taginfo.json
@@ -142,7 +141,6 @@ mapcomplete_wayside_shrines https://docs.mapcomplete.org/TagInfo/mapcomplete_way
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
-maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 mmgtfs https://git.multimob.be/multimob/mmgtfs/raw/branch/main/taginfo.json
 name_suggestion_index https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/taginfo.json
 next_charging_station https://www.nextchargingstation.org/taginfo.json
@@ -167,7 +165,6 @@ openinframap https://openinframap.org/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/opening-hours/opening_hours.js/master/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_map/master/taginfo.json
 openlandcovermap https://raw.githubusercontent.com/Zkir/generalized_landcovers/main/taginfo.json
-openlovemap https://openlovemap.de/static/js/openlovemap_taginfo.json
 openlovemap_org https://openlovemap.org/taginfo.json
 opennwb https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/taginfo.json
 opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/road-operators/taginfo.json
@@ -188,13 +185,10 @@ osm_api_js https://raw.githubusercontent.com/osmlab/osm-api-js/main/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
 osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/main/Documentation/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
-osm_inspector_public_transport_railways https://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
-osm_inspector_public_transport_stops https://tools.geofabrik.de/osmi/osmi_pubtrans_stops.json
 osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/main/tmpl/static/taginfo.json
 osm_maps_for_garmin https://raw.githubusercontent.com/roballey/OSM_Maps_For_Garmin/refs/heads/master/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_relatify https://raw.githubusercontent.com/Zaczero/osm-relatify/main/taginfo.json
-osm_transit_extractor https://raw.githubusercontent.com/CanalTP/osm-transit-extractor/master/taginfo.json
 osmand https://creator.osmand.net/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
@@ -204,7 +198,6 @@ osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
-osmmosques https://www.osmmosques.org/taginfo.json
 osmpoismap https://raw.githubusercontent.com/yopaseopor/osmpoismap/master/taginfo/taginfo_osmpoismap.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
 osmwikidatamap https://osmwd.dsantini.it/taginfo.json
