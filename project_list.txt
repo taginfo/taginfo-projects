@@ -189,7 +189,7 @@ osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/ma
 osm_maps_for_garmin https://raw.githubusercontent.com/roballey/OSM_Maps_For_Garmin/refs/heads/master/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_relatify https://raw.githubusercontent.com/Zaczero/osm-relatify/main/taginfo.json
-osmand https://creator.osmand.net/taginfo.json
+osmand https://builder.osmand.net/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
 osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/main/taginfo.json
