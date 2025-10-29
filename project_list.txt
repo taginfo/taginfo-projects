@@ -199,6 +199,7 @@ osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
+osmpie https://raw.githubusercontent.com/kuzinmv/osmpie-doc/refs/heads/master/taginfo.json
 osmpoismap https://raw.githubusercontent.com/yopaseopor/osmpoismap/master/taginfo/taginfo_osmpoismap.json
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
 osmwikidatamap https://osmwd.dsantini.it/taginfo.json
