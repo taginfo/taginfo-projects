@@ -219,6 +219,7 @@ scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/tele
 serbia_address_import https://gitlab.com/osm-serbia/adresniregistar/-/raw/main/ar/addresses-taginfo.json
 shortbread_tiles https://shortbread-tiles.org/taginfo.json
 slovenia_address_import https://raw.githubusercontent.com/openstreetmap-si/GursAddressesForOSM/master/taginfo.json
+smrender https://raw.githubusercontent.com/rahra/smrender/refs/heads/master/doc/taginfo.json
 someoneelse_mkgmap_ajt02 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap_style_ajt/master/taginfo_ajt02.json
 someoneelse_mkgmap_ajt03 https://raw.githubusercontent.com/SomeoneElseOSM/mkgmap_style_ajt/master/taginfo_ajt03.json
 someoneelse_style https://raw.githubusercontent.com/SomeoneElseOSM/SomeoneElse-style/master/taginfo.json
