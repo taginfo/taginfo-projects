@@ -195,6 +195,7 @@ osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/os
 osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/main/taginfo.json
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
+osmcarto https://imagico.de/map/styleinfo/api/osmcarto/?action=taginfo
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
