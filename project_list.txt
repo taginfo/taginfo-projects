@@ -142,7 +142,6 @@ mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslig
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 mmgtfs https://git.multimob.be/multimob/mmgtfs/raw/branch/main/taginfo.json
 name_suggestion_index https://cdn.jsdelivr.net/npm/name-suggestion-index@latest/dist/json/taginfo.json
-next_charging_station https://www.nextchargingstation.org/taginfo.json
 next_parking_lot https://www.nextparkinglot.org/taginfo.json
 next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
