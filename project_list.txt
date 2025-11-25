@@ -25,7 +25,6 @@ comaps https://codeberg.org/comaps/comaps/raw/branch/main/data/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
 cycling_qa https://github.com/britiger/openmaptiles-cycling-qa-deploy/raw/main/webmap/taginfo.json
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
-defikarte_ch https://www.defikarte.ch/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 dk_etymology https://raw.githubusercontent.com/PeterBrodersen/osmetymology/main/taginfo.json
