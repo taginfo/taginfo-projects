@@ -194,6 +194,7 @@ osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/ma
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
 osmbuildings https://osmbuildings.org/ref/taginfo.json
 osmcarto https://imagico.de/map/styleinfo/api/osmcarto/?action=taginfo
+osmcarto_ac https://imagico.de/map/styleinfo/api/ac/?action=taginfo
 osmcoastline https://raw.githubusercontent.com/osmcode/osmcoastline/master/taginfo.json
 osmhydrant https://www.osmhydrant.org/taginfo.json
 osmlanevisualizer https://osm.mueschelsoft.de/lanes/taginfo.json
