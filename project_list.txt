@@ -44,6 +44,7 @@ highschoolmascotmap https://raw.githubusercontent.com/watmildon/HighSchoolMascot
 historic_place https://gk.historic.place/taginfo/historic.place.json
 histosm https://histosm.org/taginfo.json
 hofladen_finder https://www.hofladenfinder.org/taginfo.json
+hydranten_eu https://hydranten.eu/taginfo.json
 id_editor https://raw.githubusercontent.com/openstreetmap/id-tagging-schema/main/dist/taginfo.min.json
 indoorequal https://raw.githubusercontent.com/indoorequal/indoorequal/master/taginfo.json
 inwheel https://raw.githubusercontent.com/koinsaari/inwheel/main/taginfo.json
