@@ -158,8 +158,8 @@ openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/tagin
 openburialmap https://burial.dsantini.it/taginfo.json
 opencameras https://kyle.kiwi/opencameras/taginfo.json
 opencampingmap https://raw.githubusercontent.com/giggls/opencampsitemap/master/taginfo.json
-openetymologymap https://etymology.dsantini.it/taginfo.json
 openclimbing_org https://openclimbing.org/openclimbing/taginfo.json
+openetymologymap https://etymology.dsantini.it/taginfo.json
 openinframap https://openinframap.org/taginfo.json
 opening_hours_evaluation_tool https://raw.githubusercontent.com/opening-hours/opening_hours.js/HEAD/taginfo.json
 opening_hours_map https://raw.githubusercontent.com/opening-hours/opening_hours_map/HEAD/taginfo.json
@@ -180,7 +180,6 @@ osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
 osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
 osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
-osmapp_org https://osmapp.org/taginfo.json
 osm_americana https://americanamap.org/taginfo.json
 osm_api_js https://raw.githubusercontent.com/osmlab/osm-api-js/main/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/taginfo.json
@@ -192,6 +191,7 @@ osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mu
 osm_relatify https://raw.githubusercontent.com/Zaczero/osm-relatify/main/taginfo.json
 osmand https://builder.osmand.net/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
+osmapp_org https://osmapp.org/taginfo.json
 osmaxx https://raw.githubusercontent.com/geometalab/osmaxx/master/docs/schema/osmaxx_taginfo.json
 osmbeschilderung https://raw.githubusercontent.com/wielandb/osm-beschilderung/main/taginfo.json
 osmbot https://raw.githubusercontent.com/Xevib/osmbot/master/taginfo/taginfo.json
