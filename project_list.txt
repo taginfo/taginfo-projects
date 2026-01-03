@@ -138,6 +138,7 @@ mapcomplete_vending_machine https://docs.mapcomplete.org/TagInfo/mapcomplete_ven
 mapcomplete_waste https://docs.mapcomplete.org/TagInfo/mapcomplete_waste.json
 mapcomplete_waste_basket https://docs.mapcomplete.org/TagInfo/mapcomplete_waste_basket.json
 mapcomplete_wayside_shrines https://docs.mapcomplete.org/TagInfo/mapcomplete_wayside_shrines.json
+mapefurlane https://raw.githubusercontent.com/andreadecorte/mapefurlane/main/taginfo.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
