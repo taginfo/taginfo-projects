@@ -272,3 +272,6 @@ yohours https://projets.pavie.info/yohours/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
+tilda-places https://tilda-geo.de/taginfo/tilda-places.json
+tilda-poi_classification https://tilda-geo.de/taginfo/tilda-poiClassification.json
+tilda-traffic_signs https://tilda-geo.de/taginfo/tilda-trafficSigns.json
