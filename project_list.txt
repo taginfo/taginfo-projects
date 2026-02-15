@@ -177,10 +177,6 @@ openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/tag
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
 opentrailstash https://open.trailsta.sh/taginfo.json
 organicmaps https://raw.githubusercontent.com/organicmaps/organicmaps/master/data/taginfo.json
-osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
-osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
-osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
-osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_americana https://americanamap.org/taginfo.json
 osm_api_js https://raw.githubusercontent.com/osmlab/osm-api-js/main/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/taginfo.json
@@ -190,6 +186,10 @@ osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/ma
 osm_maps_for_garmin https://raw.githubusercontent.com/roballey/OSM_Maps_For_Garmin/refs/heads/master/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_relatify https://raw.githubusercontent.com/Zaczero/osm-relatify/main/taginfo.json
+osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
+osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
+osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
+osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osmand https://builder.osmand.net/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmapp_org https://osmapp.org/taginfo.json
@@ -238,6 +238,9 @@ streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/
 subway_exit_map https://kyle.kiwi/subway-exit-map/taginfo.generated.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 tigerking https://raw.githubusercontent.com/whubsch/tigerking/refs/heads/main/taginfo.json
+tilda_places https://tilda-geo.de/taginfo/tilda-places.json
+tilda_poi_classification https://tilda-geo.de/taginfo/tilda-poiClassification.json
+tilda_traffic_signs https://tilda-geo.de/taginfo/tilda-trafficSigns.json
 tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
 traffic_signs_afr https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_afr.json
 traffic_signs_ame https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_ame.json
@@ -272,6 +275,3 @@ yohours https://projets.pavie.info/yohours/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
-tilda_places https://tilda-geo.de/taginfo/tilda-places.json
-tilda_poi_classification https://tilda-geo.de/taginfo/tilda-poiClassification.json
-tilda_traffic_signs https://tilda-geo.de/taginfo/tilda-trafficSigns.json
