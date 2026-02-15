@@ -177,6 +177,10 @@ openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/tag
 opentopomap https://raw.githubusercontent.com/der-stefan/OpenTopoMap/master/mapnik/taginfo.json
 opentrailstash https://open.trailsta.sh/taginfo.json
 organicmaps https://raw.githubusercontent.com/organicmaps/organicmaps/master/data/taginfo.json
+osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
+osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
+osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
+osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_americana https://americanamap.org/taginfo.json
 osm_api_js https://raw.githubusercontent.com/osmlab/osm-api-js/main/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/taginfo.json
@@ -186,10 +190,6 @@ osm_link_validator https://codeberg.org/strubbl/osm-link-validator/raw/branch/ma
 osm_maps_for_garmin https://raw.githubusercontent.com/roballey/OSM_Maps_For_Garmin/refs/heads/master/taginfo.json
 osm_mug https://raw.githubusercontent.com/taginfo/taginfo-projects/master/osm-mug/osm-mug.json
 osm_relatify https://raw.githubusercontent.com/Zaczero/osm-relatify/main/taginfo.json
-osm2gtfs https://raw.githubusercontent.com/grote/osm2gtfs/master/taginfo.json
-osm2pgsql_default_c https://osmlab.github.io/osm2pgsql_taginfo/default_style.json
-osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortiles/master/taginfo.json
-osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osmand https://builder.osmand.net/taginfo.json
 osmapaaralan https://raw.githubusercontent.com/OSMPH/deped_schools_db/master/taginfo.json
 osmapp_org https://osmapp.org/taginfo.json
