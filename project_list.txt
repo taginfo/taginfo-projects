@@ -239,6 +239,9 @@ streets_gl https://raw.githubusercontent.com/StrandedKitty/streets-gl/main/docs/
 subway_exit_map https://kyle.kiwi/subway-exit-map/taginfo.generated.json
 tag2link https://raw.githubusercontent.com/osmlab/tag2link/master/taginfo.json
 tigerking https://raw.githubusercontent.com/whubsch/tigerking/refs/heads/main/taginfo.json
+tilda_places https://tilda-geo.de/taginfo/tilda-places.json
+tilda_poi_classification https://tilda-geo.de/taginfo/tilda-poiClassification.json
+tilda_traffic_signs https://tilda-geo.de/taginfo/tilda-trafficSigns.json
 tracestrack https://raw.githubusercontent.com/tracestrack/tracestrack-maps/main/taginfo/taginfo.json
 traffic_signs_afr https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_afr.json
 traffic_signs_ame https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_ame.json
