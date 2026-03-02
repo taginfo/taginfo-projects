@@ -32,6 +32,7 @@ dubious_tags_mk https://codeberg.org/matkoniecz/dubious_tags/raw/branch/master/t
 evmap https://raw.githubusercontent.com/ev-map/evmap/master/_misc/taginfo.json
 f4 https://raw.githubusercontent.com/angoca/f4demo-in-taginfo/refs/heads/main/taginfo.json
 fahrkartenautomaten https://ubahnverleih.github.io/OSMfahrkartenautomaten/taginfo.json
+fileradar_traffic https://raw.githubusercontent.com/FileradarBV/OSM-Traffic-Taginfo/master/taginfo.json
 flosm_cycling_map https://www.flosm.org/src/projects/cycling_map_taginfo.json
 flosm_poi_map https://www.flosm.org/src/projects/poimap_taginfo.json
 flosm_public_transport https://www.flosm.org/src/projects/public_transport_taginfo.json
