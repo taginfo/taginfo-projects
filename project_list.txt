@@ -18,6 +18,7 @@ caresteouvert https://raw.githubusercontent.com/caresteouvert/caresteouvert/mast
 cartomobil_ite https://raw.githubusercontent.com/Cartomobil-ite/cartomobil-ite/master/taginfo.json
 cartovrac https://raw.githubusercontent.com/vivreanantes/cartovrac/master/taginfo.json
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
+ciclomapa https://raw.githubusercontent.com/cmdalbem/ciclomapa/refs/heads/master/taginfo.json
 ciclovia_bogota https://raw.githubusercontent.com/MaptimeBogota/Varios/master/proyecto-ciclovia/taginfo.json
 closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
 coinmap https://raw.githubusercontent.com/smartm0use/coinmap/master/taginfo.json
