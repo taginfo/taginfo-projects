@@ -175,6 +175,7 @@ opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/r
 openrailrouting https://raw.githubusercontent.com/geofabrik/OpenRailRouting/refs/heads/master/taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 openrailwaymap_vector https://openrailwaymap.app/taginfo.json
+openseamap_vector https://kyle.kiwi/OpenSeaMap-vector/taginfo.generated.json
 openskimap https://openskimap.org/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/taginfo.json
