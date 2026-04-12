@@ -26,6 +26,7 @@ comaps https://codeberg.org/comaps/comaps/raw/branch/main/data/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
 cycling_qa https://github.com/britiger/openmaptiles-cycling-qa-deploy/raw/main/webmap/taginfo.json
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
+defikarte.ch https://defikarte.ch/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 dk_etymology https://raw.githubusercontent.com/PeterBrodersen/osmetymology/main/taginfo.json
@@ -280,4 +281,4 @@ yohours https://projets.pavie.info/yohours/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
-defikarte.ch https://defikarte.ch/taginfo.json
+
