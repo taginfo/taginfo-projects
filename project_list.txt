@@ -173,7 +173,6 @@ openlandcovermap https://raw.githubusercontent.com/Zkir/generalized_landcovers/m
 openlovemap_org https://openlovemap.org/taginfo.json
 opennwb https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/taginfo.json
 opennwb_operators https://raw.githubusercontent.com/FileradarBV/OpenNWB/master/road-operators/taginfo.json
-openpaddlemap https://openpaddlemap.org/taginfo.json
 openrailrouting https://raw.githubusercontent.com/geofabrik/OpenRailRouting/refs/heads/master/taginfo.json
 openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 openrailwaymap_vector https://openrailwaymap.app/taginfo.json
@@ -215,6 +214,7 @@ osmpoismap https://raw.githubusercontent.com/yopaseopor/osmpoismap/master/taginf
 osmstreetlight https://raw.githubusercontent.com/sb12/OSMStreetLight/master/taginfo.json
 osmwikidatamap https://osmwd.dsantini.it/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
+paddlemap https://paddlemap.net/taginfo.json
 panopticity https://raw.githubusercontent.com/babastienne/PanoptiCity/main/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
