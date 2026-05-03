@@ -267,6 +267,7 @@ umweltzone https://raw.githubusercontent.com/Umweltzone/Umweltzone/master/openst
 unroll https://raw.githubusercontent.com/Jungle-Bus/unroll/master/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
 urbaneye3d https://raw.githubusercontent.com/Zkir/UrbanEye3D/refs/heads/master/docs/taginfo.json
+urbis_best_addresss_brussels_compare https://raw.githubusercontent.com/PasLoin/Urbis-BeSt-Address-Brussels-compare-OSM/refs/heads/main/taginfo.json
 usage_bot_commons https://raw.githubusercontent.com/bjh21/usage-bot/main/taginfo-commons.json
 valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 validador_ine https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json
