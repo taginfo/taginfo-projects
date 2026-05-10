@@ -279,7 +279,7 @@ vrcholy https://vrcholy.onrender.com/taginfo.json
 wanderreitkarte https://www.wanderreitkarte.de/download/taginfo.json
 waterwaymap_org https://waterwaymap.org/taginfo.json
 waymarkedtrails https://static.waymarkedtrails.org/taginfo.json
-wikidata_org https://tools.wmflabs.org/wp-world/wikidata/tags.php
+wikidata_org https://raw.githubusercontent.com/k-yle/wikidata-taginfo-link/gh-pages/taginfo.json
 wuzzelmap https://wuzzelmap.ck.si/taginfo.json
 xctrails https://www.xctrails.org/taginfo.json
 yohours https://projets.pavie.info/yohours/taginfo.json
