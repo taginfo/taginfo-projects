@@ -161,6 +161,7 @@ openaedmap https://raw.githubusercontent.com/openstreetmap-polska/openaedmap-fro
 openarchitectmap https://architect.dsantini.it/taginfo.json
 openartistmap https://artist.dsantini.it/taginfo.json
 openbeermap https://openbeermap.github.io/taginfo.json
+openbookcase https://openbookcase.de/taginfo.json
 openbrewerymap https://raw.githubusercontent.com/giggls/openbrewmap/master/taginfo.json
 openburialmap https://burial.dsantini.it/taginfo.json
 opencameras https://kyle.kiwi/opencameras/taginfo.json
