@@ -2,6 +2,7 @@ accessmap https://raw.githubusercontent.com/TaskarCenterAtUW/AccessMap/main/tagi
 administrative_boundaries https://www.flosm.org/src/projects/administrative_boundaries_taginfo.json
 aed_mapa https://github.com/openstreetmap-polska/aed-mapa/raw/main/taginfo.json
 alm_osm2wdm https://gitlab.com/yukaimaps/yukaimaps-osm2wdm/-/raw/main/doc/taginfo.json
+anyfinder https://anyfinder.app//taginfo.json
 architects_in_osm https://osm.ascolteo.fr/taginfo.json
 arnis https://raw.githubusercontent.com/louis-e/arnis/main/taginfo.json
 babykarte https://raw.githubusercontent.com/babykarte/taginfo/master/taginfo.json
