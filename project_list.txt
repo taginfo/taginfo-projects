@@ -147,6 +147,7 @@ mapcomplete_wayside_shrines https://docs.mapcomplete.org/TagInfo/mapcomplete_way
 mapefurlane https://raw.githubusercontent.com/andreadecorte/mapefurlane/main/taginfo.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
+maps_hitchwiki_org https://maps.hitchwiki.org/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 mmgtfs https://git.multimob.be/multimob/mmgtfs/raw/branch/main/taginfo.json
 name_suggestion_index https://cdn.jsdelivr.net/npm/name-suggestion-index@latest/dist/json/taginfo.json
