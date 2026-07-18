@@ -231,6 +231,7 @@ publicartexplorer https://codeberg.org/toz/PublicArtExplorer/raw/branch/main/tag
 raba_kgz_import https://raba.openstreetmap.si/taginfo.json
 railtrailsmap https://raw.githubusercontent.com/ValHaris/RailTrailsMap/refs/heads/master/tagInfo.json
 refuges_info https://www.refuges.info/ressources/taginfo.json
+russian_address_helper https://raw.githubusercontent.com/micronull/JOSM-Russia-address-helper-plugin/refs/heads/master/taginfo.json
 scottish_tech_army_soundscape_android https://scottish-tech-army.github.io/Soundscape-Android/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
