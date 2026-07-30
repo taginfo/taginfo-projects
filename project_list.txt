@@ -243,6 +243,7 @@ russian_address_helper https://raw.githubusercontent.com/micronull/JOSM-Russia-a
 scottish_tech_army_soundscape_android https://scottish-tech-army.github.io/Soundscape-Android/taginfo.json
 scout_rendering https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style_rendering.json
 scout_routing https://raw.githubusercontent.com/mvexel/taginfo-scout/master/telenav_style.json
+scout_washington_dc https://raw.githubusercontent.com/RSid/scout/main/docs/taginfo.json
 serbia_address_import https://gitlab.com/osm-serbia/adresniregistar/-/raw/main/ar/addresses-taginfo.json
 shortbread_tiles https://shortbread-tiles.org/taginfo.json
 slovenia_address_import https://raw.githubusercontent.com/openstreetmap-si/GursAddressesForOSM/master/taginfo.json
