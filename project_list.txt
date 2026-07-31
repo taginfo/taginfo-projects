@@ -188,6 +188,7 @@ openrailwaymap https://www.openrailwaymap.org/taginfo/taginfo.json
 openrailwaymap_vector https://openrailwaymap.app/taginfo.json
 openrouteindex https://openrouteindex.nl/taginfo.json
 openseamap_vector https://kyle.kiwi/OpenSeaMap-vector/taginfo.generated.json
+opensidewalks https://raw.githubusercontent.com/OpenSidewalks/OpenSidewalks-Schema/main/taginfo.json
 openskimap https://openskimap.org/taginfo.json
 opensnowmap_org https://www.opensnowmap.org/opensnowmap_taginfo.json
 openstop https://raw.githubusercontent.com/OPENER-next/OpenStop-taginfo/main/taginfo.json
