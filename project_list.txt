@@ -158,6 +158,7 @@ maps_hitchwiki_org https://maps.hitchwiki.org/taginfo.json
 matekarte https://gitlab.com/Strubbl/matekate/-/raw/master/taginfo.json
 mmgtfs https://git.multimob.be/multimob/mmgtfs/raw/branch/main/taginfo.json
 name_suggestion_index https://cdn.jsdelivr.net/npm/name-suggestion-index@latest/dist/json/taginfo.json
+name_tagging_scheme https://gitlab.com/darkonus/name-tagging-scheme/-/raw/main/taginfo.json
 next_parking_lot https://www.nextparkinglot.org/taginfo.json
 next_picnic https://www.nextpicnic.org/taginfo.json
 nominatim https://nominatim.openstreetmap.org/taginfo.json
