@@ -229,6 +229,7 @@ osmwikidatamap https://osmwd.dsantini.it/taginfo.json
 osrm https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/taginfo.json
 paddlemap https://paddlemap.net/taginfo.json
 panopticity https://raw.githubusercontent.com/babastienne/PanoptiCity/main/taginfo.json
+papamap https://papamap.de/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 pelias https://cdn.jsdelivr.net/npm/pelias-openstreetmap/taginfo.json
