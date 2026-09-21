@@ -63,7 +63,7 @@ josm_plmergeaddresses_plugin https://raw.githubusercontent.com/praszuk/josm-plme
 josm_street_lamps_style https://raw.githubusercontent.com/praszuk/josm-street-lamps-style/master/taginfo.json
 knooppuntnet https://raw.githubusercontent.com/vmarc/knooppuntnet/develop/docs/taginfo.json
 lgbtqmap https://pkoby.github.io/LGBTQmap/taginfo.json
-list_of_lights_import https://cdn.list.lighting/taginfo.json
+list_of_lights_import https://kyle.kiwi/lol-import/taginfo.generated.json
 lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/general_high_zoom_taginfo.json
 lunar_assembler_laser_neighbourhood https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_neighbourhood_taginfo.json
 lunar_assembler_laser_road_area https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/laser_road_area_taginfo.json
