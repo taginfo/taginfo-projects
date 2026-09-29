@@ -235,6 +235,7 @@ papamap https://papamap.de/taginfo.json
 parking_lanes https://raw.githubusercontent.com/zlant/parking-lanes/master/taginfo.json
 peakfinder https://fabiz.github.io/PeakFinder-API/osmtaginfo.json
 pelias https://cdn.jsdelivr.net/npm/pelias-openstreetmap/taginfo.json
+pizzarank https://pizzarank.it/taginfo.json
 polygon_features https://raw.githubusercontent.com/tyrasd/osmtogeojson/taginfo/project.json
 portal_streuobst https://portal-streuobst.de/taginfo.json
 power_grid https://www.flosm.org/src/projects/powergrid_taginfo.json
