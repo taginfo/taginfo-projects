@@ -311,3 +311,4 @@ yohours https://projets.pavie.info/yohours/taginfo.json
 zottelig_priceless_map https://priceless.zottelig.ch/taginfo.json
 zottelig_public_bookcases_map https://book-exchange.zottelig.ch/taginfo.json
 zottelig_sustainable_map https://sustainable.zottelig.ch/taginfo.json
+transit-stops-osm-comparison https://github.com/mfdz/transit-stops-osm-comparison/blob/main/taginfo.json
