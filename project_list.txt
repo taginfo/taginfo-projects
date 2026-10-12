@@ -30,6 +30,7 @@ cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/
 defikarte.ch https://defikarte.ch/taginfo.json
 dianacht_topo https://geo.dianacht.de/topo/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
+discovertrail https://discovertrail.app/taginfo.json
 dk_etymology https://raw.githubusercontent.com/PeterBrodersen/osmetymology/main/taginfo.json
 dubious_tags_mk https://codeberg.org/matkoniecz/dubious_tags/raw/branch/master/tags_in_taginfo_format.json
 evmap https://raw.githubusercontent.com/ev-map/evmap/master/_misc/taginfo.json
