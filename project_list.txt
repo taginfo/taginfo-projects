@@ -25,6 +25,7 @@ closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
 coinmap https://raw.githubusercontent.com/smartm0use/coinmap/master/taginfo.json
 comaps https://codeberg.org/comaps/comaps/raw/branch/main/data/taginfo.json
 cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
+courtlygo https://courtlygo.com/taginfo.json
 cycling_qa https://github.com/britiger/openmaptiles-cycling-qa-deploy/raw/main/webmap/taginfo.json
 cyclosm https://raw.githubusercontent.com/cyclosm/cyclosm-cartocss-style/master/taginfo.json
 defikarte.ch https://defikarte.ch/taginfo.json
