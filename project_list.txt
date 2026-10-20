@@ -159,6 +159,7 @@ mapcomplete_waste_basket https://docs.mapcomplete.org/TagInfo/mapcomplete_waste_
 mapcomplete_wayside_shrines https://docs.mapcomplete.org/TagInfo/mapcomplete_wayside_shrines.json
 mapdraw https://raw.githubusercontent.com/mapdraw/mapdraw/main/taginfo.json
 mapefurlane https://raw.githubusercontent.com/andreadecorte/mapefurlane/main/taginfo.json
+mapng https://raw.githubusercontent.com/nikkiluzader/mapng/main/public/taginfo.json
 mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 mapnik_gaslight_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-gaslight-overlay/master/taginfo.json
 maps_hitchwiki_org https://maps.hitchwiki.org/taginfo.json
